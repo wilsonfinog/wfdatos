@@ -1,0 +1,201 @@
+FechaToma,NumeroID,Edad,Talla,Peso,EPS,SedeClinica,ExamenSolicitado,GenotiposEencontrados
+6/01/2023,393487,45,45.0,160,Mi Salud,Sur,Detección VPH,No se detectaron Genotipos para VPH
+8/01/2023,189524,37,59.5,168,Ciudamos tu Salud,Occidente,Detección VPH,No se detectaron Genotipos para VPH
+13/01/2023,792914,49,90.0,180,ABC Salud,Centro,Detección VPH,No se detectaron Genotipos para VPH
+14/01/2023,985574,32,110.5,170,Salud para todos,Occidente,Detección VPH,No se detectaron Genotipos para VPH
+15/01/2023,989255,38,68.3,175,Salud para todos,Occidente,Detección VPH,Se detectaron los Genotipos 31
+17/01/2023,949583,33,56.0,160,Ciudamos tu Salud,Occidente,Detección VPH,No se detectaron Genotipos para VPH
+17/01/2023,747846,45,72.0,178,Tu Salud Primero,Centro,Detección VPH,No se detectaron Genotipos para VPH
+20/01/2023,347967,27,50.0,158,Ciudamos tu Salud,Occidente,Detección VPH,Se detectaron los Genotipos Grupo 1 (38-58)
+21/01/2023,867580,38,95.0,185,ABC Salud,Centro,Detección VPH,Se detectaron los Genotipos 31
+22/01/2023,460235,52,85.4,172,Mi Salud,Sur,Detección VPH,No se detectaron Genotipos para VPH
+23/01/2023,201955,37,77.5,165,Más Salud,Centro,Detección VPH,No se detectaron Genotipos para VPH
+27/01/2023,684590,21,64.3,163,ABC Salud,Centro,Detección VPH,No se detectaron Genotipos para VPH
+27/01/2023,872849,32,82.1,179,ABC Salud,Centro,Detección VPH,No se detectaron Genotipos para VPH
+29/01/2023,129312,35,65.0,169,Tu Salud Primero,Centro,Detección VPH,No se detectaron Genotipos para VPH
+30/01/2023,372373,57,115.0,180,Ciudamos tu Salud,Occidente,Detección VPH,No se detectaron Genotipos para VPH
+1/02/2023,567009,38,71.3,174,Mejor Salud,Norte,Detección VPH,No se detectaron Genotipos para VPH
+9/02/2023,658546,21,61.8,167,Más Salud,Centro,Detección VPH,No se detectaron Genotipos para VPH
+13/02/2023,908776,22,91.0,182,Salud para todos,Occidente,Detección VPH,No se detectaron Genotipos para VPH
+16/02/2023,827053,37,68.9,177,ABC Salud,Centro,Detección VPH,No se detectaron Genotipos para VPH
+21/02/2023,321759,47,94.2,175,Tu Salud Primero,Centro,Detección VPH,No se detectaron Genotipos para VPH
+1/03/2023,847198,32,78.3,168,Bienestar Total,Oriente,Detección VPH,No se detectaron Genotipos para VPH
+4/03/2023,608808,53,58.6,160,Salud Sur,Sur,Detección VPH,No se detectaron Genotipos para VPH
+11/03/2023,785467,29,100.0,185,ABC Salud,Centro,Detección VPH,No se detectaron Genotipos para VPH
+13/03/2023,661437,57,48.5,160,ABC Salud,Centro,Detección VPH,No se detectaron Genotipos para VPH
+13/03/2023,741453,55,88.0,180,ABC Salud,Centro,Detección VPH,No se detectaron Genotipos para VPH
+19/03/2023,178163,40,55.0,162,Bienestar Total,Oriente,Detección VPH,No se detectaron Genotipos para VPH
+23/03/2023,477123,48,78.9,173,ABC Salud,Centro,Detección VPH,No se detectaron Genotipos para VPH
+24/03/2023,920685,49,84.0,176,Bienestar Total,Oriente,Detección VPH,No se detectaron Genotipos para VPH
+30/03/2023,848584,49,92.5,180,Más Salud,Centro,Detección VPH,No se detectaron Genotipos para VPH
+3/04/2023,767368,24,85.0,177,ABC Salud,Centro,Detección VPH,No se detectaron Genotipos para VPH
+11/04/2023,438019,57,67.5,165,Bienestar Total,Oriente,Detección VPH,No se detectaron Genotipos para VPH
+11/04/2023,264949,46,56.4,163,Ciudamos tu Salud,Occidente,Detección VPH,No se detectaron Genotipos para VPH
+11/04/2023,225567,42,66.7,170,Salud Ya,Centro,Detección VPH,No se detectaron Genotipos para VPH
+12/04/2023,726799,51,82.3,185,ABC Salud,Centro,Detección VPH,No se detectaron Genotipos para VPH
+13/04/2023,899121,35,101.2,185,Tu Salud Primero,Centro,Detección VPH,No se detectaron Genotipos para VPH
+19/04/2023,863996,40,75.0,173,Salud Ya,Centro,Detección VPH,No se detectaron Genotipos para VPH
+10/05/2023,292919,30,60.2,165,Tu Salud Primero,Centro,Detección VPH,No se detectaron Genotipos para VPH
+12/05/2023,380862,49,106.3,190,Ciudamos tu Salud,Occidente,Detección VPH,No se detectaron Genotipos para VPH
+14/05/2023,962226,38,67.0,168,Bienestar Total,Oriente,Detección VPH,Se detectaron los Genotipos Grupo 3 (35-39-68)
+14/05/2023,536149,31,90.7,182,Más Salud,Centro,Detección VPH,Se detectaron los Genotipos Grupo 1 (38-58)
+23/05/2023,860046,22,69.4,174,Ciudamos tu Salud,Occidente,Detección VPH,No se detectaron Genotipos para VPH
+24/05/2023,380722,54,62.5,160,Tu Salud Primero,Centro,Detección VPH,No se detectaron Genotipos para VPH
+10/06/2023,880190,30,95.3,185,Ciudamos tu Salud,Occidente,Detección VPH,Se detectaron los Genotipos 18
+12/06/2023,391874,29,63.7,170,Bienestar Total,Oriente,Detección VPH,No se detectaron Genotipos para VPH
+18/06/2023,215401,45,99.0,175,Tu Salud Primero,Centro,Detección VPH,No se detectaron Genotipos para VPH
+22/06/2023,882683,42,53.5,162,Salud Ya,Centro,Detección VPH,No se detectaron Genotipos para VPH
+24/06/2023,130367,40,74.0,172,Salud Ya,Centro,Detección VPH,Se detectaron los Genotipos 52
+28/06/2023,588344,29,61.2,164,Ciudamos tu Salud,Occidente,Detección VPH,No se detectaron Genotipos para VPH
+29/06/2023,364252,51,105.4,190,Tu Salud Primero,Centro,Detección VPH,No se detectaron Genotipos para VPH
+29/06/2023,976563,54,59.2,160,Salud Ya,Centro,Detección VPH,No se detectaron Genotipos para VPH
+1/07/2023,146415,50,57.2,163,Bienestar Total,Oriente,Detección VPH,No se detectaron Genotipos para VPH
+17/07/2023,784040,50,75.1,172,Salud para todos,Occidente,Detección VPH,No se detectaron Genotipos para VPH
+18/07/2023,151197,25,50.6,158,Bienestar Total,Oriente,Detección VPH,No se detectaron Genotipos para VPH
+19/07/2023,247818,34,82.7,180,Tu Salud Primero,Centro,Detección VPH,No se detectaron Genotipos para VPH
+20/07/2023,675242,21,93.4,178,ABC Salud,Centro,Detección VPH,No se detectaron Genotipos para VPH
+20/07/2023,571962,54,48.9,155,Más Salud,Centro,Detección VPH,No se detectaron Genotipos para VPH
+23/07/2023,440838,58,65.3,168,Salud para todos,Occidente,Detección VPH,No se detectaron Genotipos para VPH
+24/07/2023,440919,23,56.1,160,Salud para todos,Occidente,Detección VPH,No se detectaron Genotipos para VPH
+30/07/2023,120622,28,68.2,174,Salud Ya,Centro,Detección VPH,No se detectaron Genotipos para VPH
+7/08/2023,719234,45,88.5,185,Mi Salud,Sur,Detección VPH,No se detectaron Genotipos para VPH
+12/08/2023,213593,53,105.2,179,Más Salud,Centro,Detección VPH,No se detectaron Genotipos para VPH
+14/08/2023,290570,44,60.3,165,Más Salud,Centro,Detección VPH,No se detectaron Genotipos para VPH
+18/08/2023,310943,40,45.7,159,Tu Salud Primero,Centro,Detección VPH,No se detectaron Genotipos para VPH
+27/08/2023,517558,40,79.3,176,Más Salud,Centro,Detección VPH,No se detectaron Genotipos para VPH
+30/08/2023,293747,29,85.0,182,Más Salud,Centro,Detección VPH,No se detectaron Genotipos para VPH
+2/09/2023,856097,33,72.5,170,Tu Salud Primero,Centro,Detección VPH,No se detectaron Genotipos para VPH
+10/09/2023,578489,54,93.6,183,Tu Salud Primero,Centro,Detección VPH,No se detectaron Genotipos para VPH
+12/09/2023,894069,53,59.2,168,Tu Salud Primero,Centro,Detección VPH,No se detectaron Genotipos para VPH
+13/09/2023,344930,47,110.3,180,Bienestar Total,Oriente,Detección VPH,No se detectaron Genotipos para VPH
+19/09/2023,630494,42,51.4,158,Ciudamos tu Salud,Occidente,Detección VPH,No se detectaron Genotipos para VPH
+20/09/2023,434533,36,63.2,171,ABC Salud,Centro,Detección VPH,No se detectaron Genotipos para VPH
+23/09/2023,566386,34,78.9,179,Más Salud,Centro,Detección VPH,No se detectaron Genotipos para VPH
+25/09/2023,564814,26,95.6,177,ABC Salud,Centro,Detección VPH,Se detectaron los Genotipos 18
+27/09/2023,806498,21,70.8,174,Mi Salud,Sur,Detección VPH,No se detectaron Genotipos para VPH
+29/09/2023,539902,39,64.7,170,Salud Ya,Centro,Detección VPH,No se detectaron Genotipos para VPH
+8/10/2023,175382,31,85.3,181,Tu Salud Primero,Centro,Detección VPH,No se detectaron Genotipos para VPH
+12/10/2023,720536,26,59.8,167,Ciudamos tu Salud,Occidente,Detección VPH,No se detectaron Genotipos para VPH
+17/10/2023,389608,35,77.0,180,Ciudamos tu Salud,Occidente,Detección VPH,No se detectaron Genotipos para VPH
+18/10/2023,770330,43,55.5,162,Ciudamos tu Salud,Occidente,Detección VPH,No se detectaron Genotipos para VPH
+20/10/2023,343285,49,66.3,175,Salud para todos,Occidente,Detección VPH,No se detectaron Genotipos para VPH
+25/10/2023,452412,27,92.1,181,Salud para todos,Occidente,Detección VPH,Se detectaron los Genotipos Grupo 2 (56-59-66)
+29/10/2023,443621,51,99.4,178,Ciudamos tu Salud,Occidente,Detección VPH,No se detectaron Genotipos para VPH
+30/10/2023,276898,49,57.9,164,Más Salud,Centro,Detección VPH,No se detectaron Genotipos para VPH
+4/11/2023,550867,48,80.5,173,Mejor Salud,Norte,Detección VPH,No se detectaron Genotipos para VPH
+5/11/2023,962966,39,71.1,177,Mi Salud,Sur,Detección VPH,No se detectaron Genotipos para VPH
+6/11/2023,832485,47,48.4,156,ABC Salud,Centro,Detección VPH,No se detectaron Genotipos para VPH
+9/11/2023,342891,37,103.0,185,ABC Salud,Centro,Detección VPH,No se detectaron Genotipos para VPH
+12/11/2023,283661,23,64.9,172,Tu Salud Primero,Centro,Detección VPH,No se detectaron Genotipos para VPH
+18/11/2023,229244,58,62.0,170,Ciudamos tu Salud,Occidente,Detección VPH,No se detectaron Genotipos para VPH
+22/11/2023,301634,52,67.5,169,Bienestar Total,Oriente,Detección VPH,No se detectaron Genotipos para VPH
+25/11/2023,986095,37,49.8,157,Bienestar Total,Oriente,Detección VPH,Se detectaron los Genotipos Grupo 3 (35-39-68)
+27/11/2023,111221,23,80.1,175,Salud para todos,Occidente,Detección VPH,No se detectaron Genotipos para VPH
+2/12/2023,622521,57,60.2,161,Salud Ya,Centro,Detección VPH,No se detectaron Genotipos para VPH
+8/12/2023,316854,39,88.7,180,Tu Salud Primero,Centro,Detección VPH,No se detectaron Genotipos para VPH
+15/12/2023,845965,57,102.3,182,Ciudamos tu Salud,Occidente,Detección VPH,No se detectaron Genotipos para VPH
+16/12/2023,829020,31,55.9,160,Ciudamos tu Salud,Occidente,Detección VPH,No se detectaron Genotipos para VPH
+25/12/2023,772727,30,91.2,184,Bienestar Total,Oriente,Detección VPH,No se detectaron Genotipos para VPH
+25/12/2023,996590,47,68.6,175,Salud Ya,Centro,Detección VPH,No se detectaron Genotipos para VPH
+26/12/2023,686998,56,104.5,188,ABC Salud,Centro,Detección VPH,No se detectaron Genotipos para VPH
+26/12/2023,279611,51,56.5,162,ABC Salud,Centro,Detección VPH,No se detectaron Genotipos para VPH
+30/12/2023,922530,23,65.8,170,Ciudamos tu Salud,Occidente,Detección VPH,No se detectaron Genotipos para VPH
+1/01/2024,240278,55,109.0,180,Salud para todos,Occidente,Detección VPH,No se detectaron Genotipos para VPH
+7/01/2024,792459,43,87.1,179,Más Salud,Centro,Detección VPH,No se detectaron Genotipos para VPH
+12/01/2024,788939,40,52.4,157,Salud Ya,Centro,Detección VPH,Se detectaron los Genotipos Grupo 1 (38-58)
+14/01/2024,160901,30,107.6,182,ABC Salud,Centro,Detección VPH,No se detectaron Genotipos para VPH
+23/01/2024,914243,54,80.4,175,Tu Salud Primero,Centro,Detección VPH,No se detectaron Genotipos para VPH
+24/01/2024,603528,38,66.9,173,Tu Salud Primero,Centro,Detección VPH,No se detectaron Genotipos para VPH
+26/01/2024,159637,35,63.1,166,ABC Salud,Centro,Detección VPH,Se detectaron los Genotipos 51
+1/02/2024,598061,54,70.3,174,Ciudamos tu Salud,Occidente,Detección VPH,No se detectaron Genotipos para VPH
+4/02/2024,520140,35,81.6,178,ABC Salud,Centro,Detección VPH,No se detectaron Genotipos para VPH
+5/02/2024,982958,52,49.3,158,Salud Sur,Sur,Detección VPH,Se detectaron los Genotipos 18
+8/02/2024,169242,40,99.0,179,Tu Salud Primero,Centro,Detección VPH,No se detectaron Genotipos para VPH
+10/02/2024,137449,38,91.8,183,Tu Salud Primero,Centro,Detección VPH,No se detectaron Genotipos para VPH
+13/02/2024,218192,26,55.2,161,ABC Salud,Centro,Detección VPH,No se detectaron Genotipos para VPH
+16/02/2024,368286,42,95.3,176,ABC Salud,Centro,Detección VPH,No se detectaron Genotipos para VPH
+18/02/2024,673288,43,108.4,185,Tu Salud Primero,Centro,Detección VPH,Se detectaron los Genotipos Grupo 1 (38-58)
+22/02/2024,640102,48,86.2,180,Salud para todos,Occidente,Detección VPH,No se detectaron Genotipos para VPH
+1/03/2024,174584,40,73.0,174,Salud Plus Norte,Norte,Detección VPH,No se detectaron Genotipos para VPH
+4/03/2024,208493,23,66.6,171,Salud para todos,Occidente,Detección VPH,No se detectaron Genotipos para VPH
+7/03/2024,226556,41,97.9,179,Más Salud,Centro,Detección VPH,No se detectaron Genotipos para VPH
+8/03/2024,183625,53,85.8,177,Tu Salud Primero,Centro,Detección VPH,Se detectaron los Genotipos 45
+8/03/2024,263140,26,64.0,169,Salud para todos,Occidente,Detección VPH,No se detectaron Genotipos para VPH
+11/03/2024,217498,28,105.7,183,Ciudamos tu Salud,Occidente,Detección VPH,No se detectaron Genotipos para VPH
+17/03/2024,463959,33,78.0,174,Ciudamos tu Salud,Occidente,Detección VPH,Se detectaron los Genotipos 45
+19/03/2024,854008,28,95.1,178,Salud Ya,Centro,Detección VPH,No se detectaron Genotipos para VPH
+20/03/2024,547150,21,94.8,177,Más Salud,Centro,Detección VPH,No se detectaron Genotipos para VPH
+1/04/2024,637962,40,110.8,182,Bienestar Total,Oriente,Detección VPH,No se detectaron Genotipos para VPH
+2/04/2024,323025,26,99.9,180,Bienestar Total,Oriente,Detección VPH,No se detectaron Genotipos para VPH
+7/04/2024,423911,40,67.1,165,Salud Plus Norte,Norte,Detección VPH,Se detectaron los Genotipos 18
+26/04/2024,626318,55,105.5,184,Salud Ya,Centro,Detección VPH,No se detectaron Genotipos para VPH
+27/04/2024,380267,27,59.3,161,Más Salud,Centro,Detección VPH,No se detectaron Genotipos para VPH
+5/05/2024,150203,38,79.5,178,Mi Salud,Sur,Detección VPH,Se detectaron los Genotipos Grupo 1 (38-58)
+10/05/2024,252432,23,87.7,181,Salud para todos,Occidente,Detección VPH,No se detectaron Genotipos para VPH
+10/05/2024,862515,28,98.6,182,Mi Salud,Sur,Detección VPH,Se detectaron los Genotipos 18
+12/05/2024,162545,34,55.3,160,Salud Plus Norte,Norte,Detección VPH,No se detectaron Genotipos para VPH
+14/05/2024,948406,39,67.8,170,Salud Sur,Sur,Detección VPH,No se detectaron Genotipos para VPH
+15/05/2024,476572,35,75.0,174,Tu Salud Primero,Centro,Detección VPH,No se detectaron Genotipos para VPH
+15/05/2024,276670,56,106.9,183,Más Salud,Centro,Detección VPH,No se detectaron Genotipos para VPH
+17/05/2024,394557,37,61.2,167,Salud Ya,Centro,Detección VPH,No se detectaron Genotipos para VPH
+17/05/2024,827191,39,95.2,179,Salud Ya,Centro,Detección VPH,No se detectaron Genotipos para VPH
+18/05/2024,654784,31,79.1,172,ABC Salud,Centro,Detección VPH,No se detectaron Genotipos para VPH
+27/05/2024,177812,55,82.0,176,Mi Salud,Sur,Detección VPH,No se detectaron Genotipos para VPH
+30/05/2024,233324,35,61.4,168,Salud Ya,Centro,Detección VPH,No se detectaron Genotipos para VPH
+30/05/2024,127959,29,84.2,175,Ciudamos tu Salud,Occidente,Detección VPH,No se detectaron Genotipos para VPH
+31/05/2024,300035,39,88.2,181,Salud para todos,Occidente,Detección VPH,No se detectaron Genotipos para VPH
+31/05/2024,245978,52,76.5,174,Más Salud,Centro,Detección VPH,No se detectaron Genotipos para VPH
+2/06/2024,452506,51,56.0,161,Más Salud,Centro,Detección VPH,No se detectaron Genotipos para VPH
+4/06/2024,588846,36,106.0,185,Tu Salud Primero,Centro,Detección VPH,No se detectaron Genotipos para VPH
+5/06/2024,637679,56,61.0,167,Salud Ya,Centro,Detección VPH,No se detectaron Genotipos para VPH
+6/06/2024,473233,42,101.7,182,Salud Ya,Centro,Detección VPH,No se detectaron Genotipos para VPH
+9/06/2024,407937,36,67.9,169,ABC Salud,Centro,Detección VPH,No se detectaron Genotipos para VPH
+21/06/2024,802167,21,102.8,180,ABC Salud,Centro,Detección VPH,No se detectaron Genotipos para VPH
+22/06/2024,440141,41,56.8,159,Salud Sur,Sur,Detección VPH,Se detectaron los Genotipos Grupo 3 (35-39-68)
+22/06/2024,969109,50,70.7,172,Salud para todos,Occidente,Detección VPH,No se detectaron Genotipos para VPH
+25/06/2024,256434,39,107.1,181,Ciudamos tu Salud,Occidente,Detección VPH,No se detectaron Genotipos para VPH
+26/06/2024,742456,32,77.3,177,Ciudamos tu Salud,Occidente,Detección VPH,No se detectaron Genotipos para VPH
+9/07/2024,735732,57,63.9,168,Salud para todos,Occidente,Detección VPH,No se detectaron Genotipos para VPH
+13/07/2024,579945,42,74.9,173,Salud para todos,Occidente,Detección VPH,No se detectaron Genotipos para VPH
+16/07/2024,989452,56,90.3,180,Más Salud,Centro,Detección VPH,No se detectaron Genotipos para VPH
+20/07/2024,929421,38,71.2,176,Salud para todos,Occidente,Detección VPH,No se detectaron Genotipos para VPH
+21/07/2024,926092,32,52.3,168,Más Salud,Centro,Detección VPH,No se detectaron Genotipos para VPH
+21/07/2024,758175,56,45.1,160,Ciudamos tu Salud,Occidente,Detección VPH,No se detectaron Genotipos para VPH
+23/07/2024,340331,43,77.4,170,Salud para todos,Occidente,Detección VPH,No se detectaron Genotipos para VPH
+24/07/2024,142353,36,68.2,175,Tu Salud Primero,Centro,Detección VPH,No se detectaron Genotipos para VPH
+24/07/2024,301949,34,105.5,185,Salud Sur,Sur,Detección VPH,No se detectaron Genotipos para VPH
+25/07/2024,122171,41,92.3,180,Ciudamos tu Salud,Occidente,Detección VPH,Se detectaron los Genotipos Grupo 3 (35-39-68)
+27/07/2024,923135,30,59.5,162,ABC Salud,Centro,Detección VPH,Se detectaron los Genotipos 45
+29/07/2024,932987,22,63.1,168,ABC Salud,Centro,Detección VPH,Se detectaron los Genotipos Grupo 2 (56-59-66)
+10/08/2024,738547,49,115.8,178,Bienestar Total,Oriente,Detección VPH,No se detectaron Genotipos para VPH
+11/08/2024,181426,31,50.0,156,Tu Salud Primero,Centro,Detección VPH,No se detectaron Genotipos para VPH
+11/08/2024,790414,37,89.2,177,ABC Salud,Centro,Detección VPH,No se detectaron Genotipos para VPH
+19/08/2024,925569,45,103.4,182,Más Salud,Centro,Detección VPH,No se detectaron Genotipos para VPH
+29/08/2024,779913,55,76.6,173,Salud Ya,Centro,Detección VPH,No se detectaron Genotipos para VPH
+29/08/2024,157905,45,49.3,159,ABC Salud,Centro,Detección VPH,No se detectaron Genotipos para VPH
+1/09/2024,749035,48,62.8,171,Ciudamos tu Salud,Occidente,Detección VPH,Se detectaron los Genotipos 51
+3/09/2024,746310,22,94.0,180,Salud Ya,Centro,Detección VPH,No se detectaron Genotipos para VPH
+11/09/2024,643231,54,101.3,188,Más Salud,Centro,Detección VPH,No se detectaron Genotipos para VPH
+16/09/2024,837812,24,70.5,175,Salud Ya,Centro,Detección VPH,Se detectaron los Genotipos Grupo 3 (35-39-68)
+21/09/2024,817908,57,60.9,164,ABC Salud,Centro,Detección VPH,No se detectaron Genotipos para VPH
+25/09/2024,997243,30,105.1,180,Más Salud,Centro,Detección VPH,No se detectaron Genotipos para VPH
+26/09/2024,207930,54,80.4,172,Mi Salud,Sur,Detección VPH,No se detectaron Genotipos para VPH
+29/09/2024,594212,43,81.7,178,Bienestar Total,Oriente,Detección VPH,No se detectaron Genotipos para VPH
+30/09/2024,144982,34,66.2,170,Salud para todos,Occidente,Detección VPH,No se detectaron Genotipos para VPH
+1/10/2024,150065,42,58.1,163,Bienestar Total,Oriente,Detección VPH,No se detectaron Genotipos para VPH
+4/10/2024,844791,51,110.0,185,Mejor Salud,Norte,Detección VPH,No se detectaron Genotipos para VPH
+6/10/2024,525990,36,72.3,176,Salud Ya,Centro,Detección VPH,No se detectaron Genotipos para VPH
+6/10/2024,163253,53,65.8,169,Bienestar Total,Oriente,Detección VPH,Se detectaron los Genotipos Grupo 3 (35-39-68)
+10/10/2024,297160,44,55.2,160,Mejor Salud,Norte,Detección VPH,No se detectaron Genotipos para VPH
+10/10/2024,889102,56,49.6,157,Salud para todos,Occidente,Detección VPH,No se detectaron Genotipos para VPH
+17/10/2024,209546,21,87.3,174,Salud Plus Norte,Norte,Detección VPH,No se detectaron Genotipos para VPH
+20/10/2024,514424,40,98.1,182,Salud Ya,Centro,Detección VPH,No se detectaron Genotipos para VPH
+24/10/2024,427352,28,82.5,177,ABC Salud,Centro,Detección VPH,No se detectaron Genotipos para VPH
+31/10/2024,696972,50,112.3,180,ABC Salud,Centro,Detección VPH,No se detectaron Genotipos para VPH
+2/11/2024,400588,26,91.6,178,ABC Salud,Centro,Detección VPH,No se detectaron Genotipos para VPH
+3/11/2024,854189,44,56.9,162,Salud para todos,Occidente,Detección VPH,No se detectaron Genotipos para VPH
+5/11/2024,261872,48,53.7,159,Mi Salud,Sur,Detección VPH,No se detectaron Genotipos para VPH
+13/11/2024,421123,21,79.2,176,Ciudamos tu Salud,Occidente,Detección VPH,No se detectaron Genotipos para VPH
+16/11/2024,366634,46,107.8,184,Tu Salud Primero,Centro,Detección VPH,No se detectaron Genotipos para VPH
+22/11/2024,668937,26,80.4,160,Tu Salud Primero,Centro,Detección VPH,No se detectaron Genotipos para VPH
+28/11/2024,137418,46,80.5,174,Más Salud,Centro,Detección VPH,No se detectaron Genotipos para VPH
