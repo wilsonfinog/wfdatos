@@ -2,18 +2,18 @@ NumeroID,Ciudad,ExamenSolicitado,ResultadoVIH,ResultadoHB,ResultadoHC,ResultadoS
 393487,Pasto,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 189524,Cali,PruebasRapidas,No Reactiva,Reactiva,No Reactiva,Negativo
 792914,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
-985574,Cali,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Positivo
+985574,Cali,PruebasRapidas,No Reactiva,Reactiva,No Reactiva,Positivo
 989255,Cali,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 949583,Cali,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 747846,Bogotá D.C.,PruebasRapidas,Reactiva,No Reactiva,No Reactiva,Negativo
 347967,Cali,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Positivo
 867580,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
-460235,Pasto,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
+460235,Pasto,PruebasRapidas,No Reactiva,Reactiva,No Reactiva,Negativo
 201955,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 684590,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 872849,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 129312,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
-372373,Cali,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
+372373,Cali,PruebasRapidas,No Reactiva,Reactiva,No Reactiva,Negativo
 567009,Cartagena,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 658546,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 908776,Cali,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
@@ -22,25 +22,25 @@ NumeroID,Ciudad,ExamenSolicitado,ResultadoVIH,ResultadoHB,ResultadoHC,ResultadoS
 847198,Arauca,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 608808,Pasto,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 785467,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
-661437,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
+661437,Bogotá D.C.,PruebasRapidas,No Reactiva,Reactiva,No Reactiva,Negativo
 741453,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 178163,Arauca,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 477123,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Positivo
 920685,Arauca,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
-848584,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
+848584,Bogotá D.C.,PruebasRapidas,No Reactiva,Reactiva,No Reactiva,Negativo
 767368,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
-438019,Arauca,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
+438019,Arauca,PruebasRapidas,No Reactiva,Reactiva,No Reactiva,Negativo
 264949,Cali,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 225567,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 726799,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 899121,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 863996,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
-292919,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
+292919,Bogotá D.C.,PruebasRapidas,No Reactiva,Reactiva,No Reactiva,Negativo
 380862,Cali,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 962226,Arauca,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
-536149,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
+536149,Bogotá D.C.,PruebasRapidas,No Reactiva,Reactiva,No Reactiva,Negativo
 860046,Cali,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
-380722,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
+380722,Bogotá D.C.,PruebasRapidas,No Reactiva,Reactiva,No Reactiva,Negativo
 880190,Cali,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 391874,Arauca,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 215401,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
@@ -50,24 +50,24 @@ NumeroID,Ciudad,ExamenSolicitado,ResultadoVIH,ResultadoHB,ResultadoHC,ResultadoS
 364252,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 976563,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 146415,Arauca,PruebasRapidas,No Reactiva,Reactiva,No Reactiva,Negativo
-784040,Cali,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
+784040,Cali,PruebasRapidas,No Reactiva,Reactiva,No Reactiva,Negativo
 151197,Arauca,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 247818,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 675242,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 571962,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 440838,Cali,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
-440919,Cali,PruebasRapidas,No Reactiva,No Reactiva,Reactiva,Negativo
+440919,Cali,PruebasRapidas,No Reactiva,Reactiva,Reactiva,Negativo
 120622,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
-719234,Pasto,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
-213593,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
-290570,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
-310943,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
+719234,Pasto,PruebasRapidas,No Reactiva,Reactiva,No Reactiva,Negativo
+213593,Bogotá D.C.,PruebasRapidas,No Reactiva,Reactiva,No Reactiva,Negativo
+290570,Bogotá D.C.,PruebasRapidas,No Reactiva,Reactiva,No Reactiva,Negativo
+310943,Bogotá D.C.,PruebasRapidas,No Reactiva,Reactiva,No Reactiva,Negativo
 517558,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 293747,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 856097,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 578489,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Positivo
 894069,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
-344930,Arauca,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
+344930,Arauca,PruebasRapidas,No Reactiva,Reactiva,No Reactiva,Negativo
 630494,Cali,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 434533,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 566386,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
@@ -75,7 +75,7 @@ NumeroID,Ciudad,ExamenSolicitado,ResultadoVIH,ResultadoHB,ResultadoHC,ResultadoS
 806498,Pasto,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 539902,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 175382,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
-720536,Cali,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
+720536,Cali,PruebasRapidas,No Reactiva,Reactiva,No Reactiva,Negativo
 389608,Cali,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 770330,Cali,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 343285,Cali,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
@@ -91,13 +91,13 @@ NumeroID,Ciudad,ExamenSolicitado,ResultadoVIH,ResultadoHB,ResultadoHC,ResultadoS
 301634,Arauca,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 986095,Arauca,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 111221,Cali,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
-622521,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
+622521,Bogotá D.C.,PruebasRapidas,No Reactiva,Reactiva,No Reactiva,Negativo
 316854,Bogotá D.C.,PruebasRapidas,No Reactiva,Reactiva,No Reactiva,Negativo
 845965,Cali,PruebasRapidas,No Reactiva,Reactiva,No Reactiva,Negativo
 829020,Cali,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 772727,Arauca,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 996590,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
-686998,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
+686998,Bogotá D.C.,PruebasRapidas,No Reactiva,Reactiva,No Reactiva,Negativo
 279611,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 922530,Cali,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 240278,Cali,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
@@ -111,9 +111,9 @@ NumeroID,Ciudad,ExamenSolicitado,ResultadoVIH,ResultadoHB,ResultadoHC,ResultadoS
 520140,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 982958,Pasto,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 169242,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
-137449,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
-218192,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
-368286,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
+137449,Bogotá D.C.,PruebasRapidas,No Reactiva,Reactiva,No Reactiva,Negativo
+218192,Bogotá D.C.,PruebasRapidas,No Reactiva,Reactiva,No Reactiva,Negativo
+368286,Bogotá D.C.,PruebasRapidas,No Reactiva,Reactiva,No Reactiva,Negativo
 673288,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 640102,Cali,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 174584,Cartagena,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
@@ -130,40 +130,40 @@ NumeroID,Ciudad,ExamenSolicitado,ResultadoVIH,ResultadoHB,ResultadoHC,ResultadoS
 423911,Cartagena,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 626318,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 380267,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
-150203,Pasto,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
+150203,Pasto,PruebasRapidas,No Reactiva,Reactiva,No Reactiva,Negativo
 252432,Cali,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 862515,Pasto,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 162545,Cartagena,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 948406,Pasto,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 476572,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 276670,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
-394557,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
-827191,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
+394557,Bogotá D.C.,PruebasRapidas,No Reactiva,Reactiva,No Reactiva,Negativo
+827191,Bogotá D.C.,PruebasRapidas,No Reactiva,Reactiva,No Reactiva,Negativo
 654784,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 177812,Pasto,PruebasRapidas,No Reactiva,Reactiva,No Reactiva,Negativo
 233324,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
-127959,Cali,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Positivo
+127959,Cali,PruebasRapidas,No Reactiva,Reactiva,No Reactiva,Positivo
 300035,Cali,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 245978,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 452506,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
-588846,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
-637679,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
+588846,Bogotá D.C.,PruebasRapidas,No Reactiva,Reactiva,No Reactiva,Negativo
+637679,Bogotá D.C.,PruebasRapidas,No Reactiva,Reactiva,No Reactiva,Negativo
 473233,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 407937,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 802167,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 440141,Pasto,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
-969109,Cali,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
+969109,Cali,PruebasRapidas,No Reactiva,Reactiva,No Reactiva,Negativo
 256434,Cali,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 742456,Cali,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 735732,Cali,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 579945,Cali,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 989452,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 929421,Cali,PruebasRapidas,Reactiva,No Reactiva,No Reactiva,Negativo
-926092,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
+926092,Bogotá D.C.,PruebasRapidas,No Reactiva,Reactiva,No Reactiva,Negativo
 758175,Cali,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 340331,Cali,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 142353,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
-301949,Pasto,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
+301949,Pasto,PruebasRapidas,No Reactiva,Reactiva,No Reactiva,Negativo
 122171,Cali,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 923135,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 932987,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
@@ -186,7 +186,7 @@ NumeroID,Ciudad,ExamenSolicitado,ResultadoVIH,ResultadoHB,ResultadoHC,ResultadoS
 844791,Cartagena,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 525990,Bogotá D.C.,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 163253,Arauca,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
-297160,Cartagena,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
+297160,Cartagena,PruebasRapidas,No Reactiva,Reactiva,No Reactiva,Negativo
 889102,Cali,PruebasRapidas,No Reactiva,No Reactiva,No Reactiva,Negativo
 209546,Cartagena,PruebasRapidas,No Reactiva,No Reactiva,Reactiva,Negativo
 514424,Bogotá D.C.,PruebasRapidas,No Reactiva,Reactiva,No Reactiva,Negativo
