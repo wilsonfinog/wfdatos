@@ -1,0 +1,1001 @@
+TipoEdificio,MetrosCuadrados,CantidadOcupantes,ElectrodomesticosUsados,TemperaturaPromedio,DiaSemana,ConsumoEnergia
+Residencial,656,76,10,29.84,Dia laboral,2713.95
+Comercial,4122,66,45,16.72,Dia laboral,5744.99
+Industrial,1788,37,17,14.3,Fin de semana,4101.24
+Residencial,1232,14,41,32.82,Dia laboral,3009.14
+Comercial,1242,26,18,11.92,Dia laboral,3279.17
+Comercial,3472,26,32,16.24,Fin de semana,4687.67
+Industrial,3589,92,14,21.01,Fin de semana,5526.83
+Residencial,3246,60,18,28.24,Dia laboral,4116.32
+Industrial,2763,99,44,13.08,Dia laboral,5841.65
+Residencial,1622,42,36,28.84,Dia laboral,3419.13
+Comercial,2573,71,14,11.3,Fin de semana,4318.61
+Comercial,4391,4,44,25.38,Dia laboral,5206.34
+Residencial,1778,97,34,17.35,Dia laboral,4070.21
+Residencial,1655,11,8,17.8,Fin de semana,2571.98
+Residencial,4261,97,19,22.45,Fin de semana,5031.14
+Comercial,889,54,47,13.56,Fin de semana,3891.12
+Comercial,400,34,44,24.62,Dia laboral,3362.42
+Industrial,3571,97,20,23.99,Fin de semana,5672.37
+Industrial,693,32,23,27.87,Dia laboral,3563.67
+Residencial,1010,19,48,22.67,Fin de semana,3080.67
+Comercial,3522,24,43,10.38,Dia laboral,4993.7
+Industrial,1365,83,40,32.92,Dia laboral,4750.37
+Industrial,1697,32,22,17.87,Dia laboral,4134.35
+Comercial,2220,55,16,26.95,Fin de semana,3930.14
+Residencial,3855,39,27,18.67,Fin de semana,4411.53
+Industrial,3831,22,7,31.95,Dia laboral,4812.15
+Residencial,3308,8,5,23.67,Fin de semana,3342.21
+Industrial,4612,63,12,29.54,Dia laboral,5754.96
+Residencial,2811,35,14,15.39,Fin de semana,3566.01
+Residencial,2515,12,30,32.89,Fin de semana,3409.14
+Comercial,1254,75,41,12.97,Dia laboral,4230.09
+Residencial,4343,22,36,15.41,Fin de semana,4700.42
+Comercial,2130,24,34,24.93,Dia laboral,3991.89
+Industrial,2725,2,13,11.36,Fin de semana,4190.25
+Residencial,353,5,26,20.96,Dia laboral,2205.2
+Residencial,4560,33,11,14.17,Dia laboral,4483.83
+Residencial,966,25,26,21.34,Dia laboral,2733.45
+Industrial,2965,77,20,22.84,Fin de semana,5151.75
+Residencial,171,31,13,15.09,Fin de semana,2086.62
+Residencial,3919,64,43,24.21,Dia laboral,5038.34
+Industrial,1943,89,31,32.76,Fin de semana,4892.22
+Comercial,1123,58,35,10.34,Dia laboral,3882.94
+Residencial,2586,85,21,29.36,Fin de semana,4015.46
+Residencial,3421,20,30,31.23,Fin de semana,3985.45
+Industrial,4195,85,45,12.92,Dia laboral,6493.48
+Industrial,1310,73,26,14.95,Dia laboral,4430.49
+Industrial,3243,99,18,33.43,Fin de semana,5428.56
+Residencial,1488,35,16,21.39,Dia laboral,2914.3
+Industrial,4556,26,48,28.64,Fin de semana,6028.93
+Residencial,2777,63,13,18.75,Fin de semana,3791.16
+Residencial,1171,85,45,11.64,Dia laboral,3872.54
+Comercial,307,2,24,18.69,Dia laboral,2621.96
+Industrial,3254,3,13,13.09,Dia laboral,4526.12
+Residencial,298,78,10,28.31,Fin de semana,2499.0
+Residencial,975,21,17,31.54,Fin de semana,2417.11
+Industrial,4644,15,22,26.78,Dia laboral,5505.97
+Industrial,3595,17,35,34.03,Fin de semana,5134.71
+Industrial,3389,69,43,15.98,Fin de semana,5794.31
+Industrial,2655,24,14,23.97,Fin de semana,4329.5
+Industrial,2683,89,10,22.15,Fin de semana,4923.27
+Industrial,702,27,44,10.08,Dia laboral,4027.56
+Comercial,612,89,32,31.24,Dia laboral,3753.31
+Industrial,4136,78,22,15.51,Fin de semana,5868.84
+Comercial,584,33,20,25.24,Dia laboral,2968.2
+Residencial,894,84,41,25.93,Fin de semana,3511.71
+Comercial,3425,10,22,15.14,Fin de semana,4307.72
+Comercial,637,25,47,25.8,Fin de semana,3403.93
+Residencial,3343,57,47,17.34,Fin de semana,4722.68
+Residencial,1689,97,15,29.66,Dia laboral,3580.93
+Industrial,3310,44,19,11.91,Fin de semana,5042.08
+Industrial,4213,75,35,26.86,Dia laboral,6133.65
+Industrial,3375,6,33,17.4,Dia laboral,4999.76
+Residencial,1100,2,22,20.11,Fin de semana,2451.63
+Industrial,1157,68,35,29.35,Fin de semana,4355.96
+Comercial,1261,73,7,20.74,Dia laboral,3495.35
+Industrial,2548,48,40,21.62,Fin de semana,5043.32
+Comercial,1486,23,47,10.9,Fin de semana,3915.71
+Comercial,4491,4,18,24.42,Dia laboral,4745.47
+Industrial,3519,34,11,11.92,Dia laboral,4944.4
+Industrial,4383,40,16,11.52,Dia laboral,5571.47
+Comercial,1262,68,13,25.69,Dia laboral,3540.91
+Industrial,1382,48,40,27.71,Dia laboral,4435.54
+Comercial,4555,43,25,14.5,Dia laboral,5359.38
+Residencial,3852,77,3,32.58,Dia laboral,4290.61
+Comercial,1911,44,19,22.34,Dia laboral,3787.26
+Residencial,2395,59,33,32.21,Dia laboral,3927.94
+Industrial,4172,4,4,22.06,Dia laboral,4805.17
+Residencial,209,22,45,24.88,Fin de semana,2608.53
+Residencial,618,21,24,15.0,Dia laboral,2497.72
+Comercial,1235,22,32,25.42,Dia laboral,3448.03
+Residencial,2432,68,3,16.82,Fin de semana,3465.03
+Comercial,1526,24,24,17.95,Dia laboral,3501.94
+Industrial,442,86,32,15.79,Dia laboral,4209.18
+Residencial,2752,55,2,10.62,Fin de semana,3518.13
+Comercial,4121,30,39,22.49,Fin de semana,5185.62
+Comercial,52,68,3,33.63,Fin de semana,2599.86
+Residencial,812,28,30,17.72,Fin de semana,2728.63
+Comercial,426,6,35,15.55,Dia laboral,2961.76
+Industrial,1843,15,11,11.29,Dia laboral,3855.63
+Comercial,3731,70,35,13.05,Fin de semana,5343.05
+Comercial,1570,88,26,17.36,Fin de semana,4158.47
+Comercial,989,46,41,13.13,Dia laboral,3796.71
+Comercial,461,21,17,29.93,Fin de semana,2648.85
+Residencial,250,83,13,23.67,Dia laboral,2656.26
+Industrial,91,3,12,28.85,Dia laboral,2724.82
+Industrial,620,39,41,15.77,Dia laboral,4015.3
+Comercial,629,84,29,17.2,Dia laboral,3722.8
+Residencial,2987,75,24,33.11,Fin de semana,4172.08
+Comercial,1791,77,34,33.56,Fin de semana,4246.55
+Residencial,129,32,15,26.19,Dia laboral,2109.01
+Residencial,1760,64,42,23.14,Fin de semana,3811.73
+Residencial,2067,10,17,24.49,Dia laboral,2980.23
+Residencial,3104,41,1,26.97,Dia laboral,3516.18
+Residencial,2346,66,1,29.74,Dia laboral,3344.42
+Residencial,3746,86,31,18.88,Fin de semana,4901.86
+Comercial,3427,30,32,20.36,Fin de semana,4683.04
+Industrial,4312,82,20,23.44,Dia laboral,5973.63
+Industrial,2091,60,30,13.61,Fin de semana,4757.71
+Comercial,1621,3,37,27.75,Dia laboral,3554.19
+Residencial,3689,82,41,16.32,Dia laboral,5094.1
+Industrial,4041,83,31,26.67,Dia laboral,6041.7
+Residencial,723,73,35,19.29,Dia laboral,3272.91
+Comercial,1575,2,49,30.66,Dia laboral,3744.59
+Industrial,3735,75,21,28.17,Dia laboral,5589.71
+Industrial,602,19,36,22.89,Fin de semana,3619.74
+Residencial,3855,73,2,14.29,Fin de semana,4273.37
+Comercial,1920,46,10,18.4,Dia laboral,3651.6
+Residencial,845,15,4,12.87,Dia laboral,2170.7
+Comercial,1656,35,4,24.93,Dia laboral,3246.71
+Comercial,1120,40,4,14.57,Fin de semana,3010.22
+Comercial,1102,5,36,33.46,Fin de semana,3195.8
+Comercial,2309,50,40,25.81,Fin de semana,4414.12
+Comercial,837,60,48,31.53,Dia laboral,3903.29
+Comercial,578,15,39,28.75,Fin de semana,3097.45
+Comercial,4088,15,49,10.43,Fin de semana,5278.51
+Residencial,2834,93,3,32.87,Dia laboral,3901.38
+Residencial,4612,12,12,18.68,Dia laboral,4298.92
+Residencial,4543,70,22,23.91,Dia laboral,5015.61
+Comercial,884,82,46,13.2,Fin de semana,4149.86
+Comercial,2775,16,41,31.63,Fin de semana,4315.75
+Residencial,1743,66,4,14.36,Fin de semana,3106.77
+Residencial,3165,12,13,29.68,Fin de semana,3435.18
+Industrial,844,5,34,29.59,Fin de semana,3536.81
+Industrial,2489,86,10,15.01,Dia laboral,4874.53
+Comercial,4234,68,4,33.33,Dia laboral,4922.36
+Residencial,1349,58,24,27.49,Fin de semana,3148.79
+Industrial,2464,54,47,32.58,Fin de semana,5143.54
+Residencial,1817,65,27,22.5,Fin de semana,3555.64
+Industrial,1256,21,25,32.25,Dia laboral,3775.01
+Residencial,1680,21,8,17.75,Fin de semana,2685.54
+Industrial,2917,2,39,23.03,Dia laboral,4805.22
+Industrial,3386,72,40,10.71,Fin de semana,5789.16
+Comercial,3270,16,44,32.34,Dia laboral,4688.65
+Comercial,1894,42,27,15.63,Dia laboral,3951.62
+Residencial,4494,95,1,31.98,Dia laboral,4779.18
+Comercial,1133,95,8,29.74,Dia laboral,3621.32
+Industrial,3821,12,14,13.25,Fin de semana,4890.31
+Industrial,1967,69,7,32.54,Dia laboral,4276.15
+Residencial,1038,13,45,12.11,Fin de semana,3028.56
+Residencial,298,68,29,14.07,Fin de semana,2850.05
+Residencial,265,81,37,23.68,Fin de semana,3074.25
+Industrial,882,85,21,28.01,Fin de semana,4104.73
+Comercial,1361,47,4,13.55,Fin de semana,3214.88
+Industrial,3793,52,4,32.3,Fin de semana,4979.96
+Industrial,3205,98,24,10.55,Dia laboral,5682.63
+Comercial,3009,23,43,28.56,Dia laboral,4616.98
+Industrial,3733,73,23,34.62,Dia laboral,5576.14
+Industrial,3508,92,35,25.8,Fin de semana,5879.25
+Comercial,2259,78,17,34.79,Dia laboral,4212.08
+Industrial,2821,21,28,28.96,Fin de semana,4643.49
+Residencial,742,13,18,21.04,Fin de semana,2284.33
+Residencial,2697,10,10,21.71,Dia laboral,3193.51
+Industrial,1966,89,8,27.28,Dia laboral,4522.1
+Industrial,2982,4,13,27.18,Fin de semana,4269.02
+Comercial,2221,93,48,31.37,Dia laboral,4978.71
+Residencial,1628,43,44,19.34,Dia laboral,3639.76
+Industrial,790,36,28,19.36,Dia laboral,3798.54
+Comercial,3359,79,30,34.31,Dia laboral,5076.4
+Comercial,836,99,41,19.66,Dia laboral,4211.82
+Residencial,3754,8,48,12.44,Dia laboral,4548.56
+Comercial,1278,3,28,31.36,Dia laboral,3171.27
+Residencial,1301,91,34,17.79,Fin de semana,3701.39
+Comercial,136,21,10,33.58,Dia laboral,2365.5
+Industrial,1236,16,41,27.82,Dia laboral,4056.28
+Industrial,4287,30,39,33.84,Fin de semana,5718.21
+Industrial,2830,55,26,28.11,Dia laboral,5002.91
+Industrial,877,25,31,15.3,Dia laboral,3815.61
+Comercial,2654,25,21,26.8,Fin de semana,3964.54
+Comercial,2477,8,1,19.76,Dia laboral,3384.78
+Comercial,2349,83,17,17.14,Fin de semana,4348.86
+Industrial,2101,31,47,17.91,Dia laboral,4841.23
+Industrial,3133,70,34,10.13,Dia laboral,5565.67
+Residencial,269,51,27,11.96,Dia laboral,2684.98
+Industrial,2589,52,26,10.39,Fin de semana,4881.83
+Industrial,4029,64,15,11.73,Dia laboral,5600.03
+Residencial,3018,95,49,16.69,Dia laboral,5020.9
+Comercial,4095,10,30,10.68,Dia laboral,4900.84
+Comercial,1274,8,10,20.28,Fin de semana,2864.63
+Industrial,3396,73,28,14.86,Fin de semana,5543.64
+Industrial,1993,58,6,19.1,Dia laboral,4227.17
+Residencial,4627,65,33,24.63,Dia laboral,5227.37
+Industrial,2531,90,44,33.51,Fin de semana,5474.72
+Industrial,676,88,44,19.54,Dia laboral,4576.47
+Industrial,4443,44,23,30.84,Fin de semana,5637.13
+Industrial,1572,57,19,20.07,Fin de semana,4195.75
+Residencial,2713,41,31,24.01,Dia laboral,3920.23
+Comercial,614,1,21,17.83,Dia laboral,2721.67
+Residencial,2044,83,21,21.77,Fin de semana,3741.64
+Comercial,333,88,41,22.27,Fin de semana,3768.3
+Industrial,1474,89,14,28.98,Fin de semana,4318.82
+Residencial,967,33,14,23.74,Fin de semana,2512.1
+Comercial,855,93,49,16.33,Fin de semana,4288.58
+Industrial,2777,15,34,16.79,Fin de semana,4741.16
+Comercial,716,51,7,13.32,Dia laboral,3019.12
+Industrial,2309,60,27,34.51,Fin de semana,4710.15
+Industrial,2719,35,19,18.63,Fin de semana,4600.3
+Industrial,4185,82,22,17.47,Fin de semana,5925.39
+Residencial,1657,15,1,33.38,Dia laboral,2445.25
+Residencial,1469,85,47,25.14,Fin de semana,3955.17
+Residencial,3230,63,47,33.23,Dia laboral,4692.24
+Residencial,801,70,46,22.83,Fin de semana,3437.1
+Residencial,521,81,2,33.21,Dia laboral,2514.4
+Comercial,3339,87,11,30.09,Fin de semana,4736.66
+Industrial,4185,13,45,16.46,Dia laboral,5750.07
+Industrial,1887,42,24,16.95,Fin de semana,4331.04
+Comercial,3204,34,35,18.11,Fin de semana,4674.31
+Residencial,1473,30,2,29.99,Fin de semana,2482.94
+Residencial,395,4,38,31.41,Dia laboral,2406.04
+Industrial,849,42,44,30.72,Fin de semana,4103.69
+Industrial,1493,58,19,16.61,Dia laboral,4230.79
+Industrial,2290,32,5,23.67,Fin de semana,4034.64
+Comercial,4490,2,18,20.62,Fin de semana,4693.8
+Comercial,2283,86,24,24.53,Fin de semana,4446.22
+Residencial,1096,32,1,27.57,Dia laboral,2342.32
+Comercial,1500,22,30,25.81,Fin de semana,3498.27
+Industrial,1084,63,8,34.74,Fin de semana,3699.87
+Residencial,1651,90,1,21.06,Dia laboral,3253.47
+Comercial,2174,98,23,20.5,Dia laboral,4558.07
+Industrial,4030,31,33,34.69,Fin de semana,5465.54
+Residencial,2516,43,34,20.96,Fin de semana,3859.59
+Comercial,3198,58,48,29.34,Dia laboral,5164.94
+Comercial,1188,80,4,11.3,Dia laboral,3513.41
+Residencial,1471,36,37,22.53,Fin de semana,3279.51
+Comercial,924,35,40,16.32,Fin de semana,3565.7
+Residencial,2094,58,47,32.58,Fin de semana,3984.2
+Residencial,1402,16,11,10.88,Fin de semana,2580.42
+Comercial,3800,97,46,28.14,Fin de semana,5794.83
+Comercial,4178,81,20,27.82,Dia laboral,5369.95
+Residencial,3149,55,30,32.48,Dia laboral,4232.44
+Comercial,3338,55,37,23.7,Dia laboral,5018.25
+Industrial,122,51,46,29.12,Fin de semana,3850.11
+Residencial,769,34,30,19.68,Fin de semana,2755.75
+Residencial,242,11,2,29.34,Dia laboral,1683.95
+Comercial,1017,86,49,22.06,Fin de semana,4277.54
+Industrial,3279,28,45,15.43,Fin de semana,5367.9
+Residencial,2207,12,3,33.13,Dia laboral,2752.62
+Industrial,2980,38,31,16.0,Dia laboral,5074.24
+Industrial,393,22,20,25.08,Dia laboral,3256.52
+Comercial,4560,70,17,20.78,Fin de semana,5390.61
+Industrial,672,62,34,19.48,Dia laboral,4114.45
+Industrial,1521,7,7,27.65,Fin de semana,3390.53
+Industrial,4266,54,34,34.66,Fin de semana,5842.72
+Residencial,3181,32,16,20.35,Fin de semana,3750.37
+Residencial,656,4,14,30.62,Fin de semana,2020.15
+Residencial,4396,12,3,32.59,Fin de semana,3883.46
+Residencial,360,45,3,24.75,Dia laboral,2130.26
+Industrial,359,75,24,33.81,Dia laboral,3804.34
+Industrial,58,2,33,23.52,Fin de semana,3093.71
+Residencial,2187,93,37,26.83,Dia laboral,4263.39
+Comercial,56,16,36,16.95,Dia laboral,2875.48
+Industrial,1130,82,41,23.04,Dia laboral,4683.0
+Industrial,3316,91,29,32.83,Dia laboral,5660.75
+Residencial,4059,45,46,20.91,Fin de semana,4950.15
+Comercial,1961,15,33,13.98,Dia laboral,3845.57
+Industrial,3332,76,12,10.29,Fin de semana,5241.91
+Industrial,1009,14,36,18.67,Fin de semana,3809.69
+Industrial,1697,23,28,23.38,Dia laboral,4136.67
+Industrial,1688,68,14,21.53,Fin de semana,4261.05
+Industrial,4418,98,30,24.87,Dia laboral,6383.5
+Residencial,2416,7,36,31.06,Fin de semana,3435.21
+Industrial,538,37,23,34.76,Fin de semana,3446.15
+Comercial,2425,26,49,15.85,Dia laboral,4516.31
+Residencial,2069,71,22,11.22,Dia laboral,3757.72
+Residencial,4586,13,28,29.4,Dia laboral,4561.71
+Industrial,3523,36,19,25.7,Fin de semana,5008.0
+Comercial,796,86,19,27.88,Fin de semana,3529.25
+Industrial,140,58,17,17.56,Fin de semana,3407.54
+Industrial,2205,47,12,17.29,Dia laboral,4360.36
+Comercial,1051,60,47,29.42,Fin de semana,3958.7
+Industrial,2253,36,45,22.91,Dia laboral,4908.05
+Comercial,689,25,47,14.83,Dia laboral,3537.04
+Industrial,1772,82,39,17.25,Dia laboral,5017.45
+Industrial,1032,64,17,30.65,Dia laboral,3932.56
+Industrial,3837,46,41,19.34,Dia laboral,5798.61
+Industrial,208,9,37,11.08,Fin de semana,3386.72
+Comercial,3207,96,27,29.12,Fin de semana,5080.4
+Residencial,273,13,29,17.8,Dia laboral,2318.15
+Residencial,4192,5,47,13.18,Dia laboral,4730.23
+Industrial,3219,21,47,20.15,Dia laboral,5332.1
+Residencial,3925,78,47,27.14,Dia laboral,5247.04
+Comercial,1179,64,45,13.45,Dia laboral,4157.81
+Industrial,4320,41,30,22.6,Dia laboral,5772.35
+Industrial,617,87,33,19.31,Fin de semana,4265.97
+Comercial,2733,16,21,34.73,Dia laboral,3927.4
+Residencial,4418,41,8,18.18,Fin de semana,4357.27
+Comercial,3138,71,40,29.61,Fin de semana,5051.07
+Residencial,3945,62,45,18.51,Dia laboral,5101.13
+Industrial,2547,25,37,15.11,Fin de semana,4785.27
+Industrial,2052,44,30,11.25,Fin de semana,4588.3
+Industrial,2593,28,1,20.84,Dia laboral,4141.78
+Comercial,275,92,32,25.47,Dia laboral,3631.08
+Comercial,4041,12,34,11.1,Dia laboral,4969.79
+Industrial,2170,26,26,29.05,Fin de semana,4302.81
+Comercial,2643,10,43,26.04,Fin de semana,4252.4
+Industrial,4451,47,12,33.71,Fin de semana,5437.17
+Residencial,113,58,3,22.79,Dia laboral,2137.35
+Industrial,851,15,3,11.8,Fin de semana,3109.29
+Comercial,862,41,40,12.19,Dia laboral,3663.21
+Industrial,663,65,11,13.97,Dia laboral,3707.17
+Comercial,3411,66,46,15.58,Fin de semana,5338.17
+Comercial,2052,4,1,12.19,Fin de semana,3103.65
+Comercial,2046,70,12,21.58,Fin de semana,3933.39
+Comercial,1594,46,27,17.59,Dia laboral,3820.1
+Industrial,1555,19,27,23.89,Fin de semana,3947.61
+Comercial,2243,46,21,28.41,Fin de semana,3945.47
+Industrial,3287,13,49,15.09,Dia laboral,5353.94
+Comercial,613,27,28,12.39,Fin de semana,3097.98
+Comercial,3374,8,25,27.52,Fin de semana,4258.49
+Industrial,679,21,37,31.57,Dia laboral,3708.08
+Industrial,3576,84,3,32.04,Dia laboral,5214.85
+Residencial,3863,50,34,33.2,Dia laboral,4643.44
+Comercial,4259,49,44,24.36,Dia laboral,5590.7
+Residencial,2173,50,23,23.8,Fin de semana,3510.52
+Comercial,1697,37,38,33.06,Dia laboral,3928.35
+Residencial,2497,94,23,16.63,Fin de semana,4161.08
+Industrial,3143,64,11,27.67,Dia laboral,4963.62
+Industrial,3936,18,38,27.13,Fin de semana,5422.98
+Industrial,4429,20,37,26.45,Fin de semana,5691.84
+Industrial,4535,51,35,30.75,Dia laboral,6047.23
+Industrial,3040,60,19,31.74,Dia laboral,5007.9
+Residencial,4642,32,14,26.06,Fin de semana,4468.13
+Residencial,3438,79,18,20.41,Dia laboral,4448.42
+Residencial,3071,3,11,32.92,Fin de semana,3238.18
+Comercial,323,79,5,10.37,Fin de semana,3012.32
+Comercial,1240,83,31,10.63,Dia laboral,4114.7
+Comercial,2352,33,41,21.22,Fin de semana,4310.2
+Comercial,4382,27,16,24.14,Fin de semana,4828.19
+Comercial,2944,99,35,28.5,Fin de semana,5132.23
+Industrial,3002,58,45,32.79,Fin de semana,5432.11
+Comercial,463,79,38,29.59,Dia laboral,3701.73
+Industrial,3009,37,7,25.09,Fin de semana,4504.03
+Industrial,2896,68,8,32.25,Dia laboral,4787.64
+Residencial,3675,16,38,28.7,Dia laboral,4304.63
+Comercial,1025,68,41,20.88,Fin de semana,3947.63
+Residencial,2123,24,22,32.87,Dia laboral,3208.61
+Residencial,3837,55,45,15.4,Dia laboral,4988.44
+Residencial,1733,13,11,23.22,Dia laboral,2716.66
+Residencial,855,77,37,25.66,Dia laboral,3392.31
+Residencial,1969,18,21,16.16,Fin de semana,3078.96
+Industrial,3282,23,29,25.76,Dia laboral,4997.78
+Residencial,3589,9,3,19.52,Fin de semana,3484.46
+Comercial,2329,41,18,26.37,Fin de semana,3891.86
+Comercial,843,26,12,18.34,Fin de semana,2862.17
+Residencial,1135,80,35,20.16,Fin de semana,3510.28
+Industrial,1472,37,15,18.92,Fin de semana,3867.85
+Residencial,1823,21,39,12.37,Dia laboral,3459.59
+Industrial,4498,49,28,11.94,Dia laboral,5961.49
+Industrial,1178,62,32,34.54,Dia laboral,4271.39
+Residencial,2455,91,14,25.79,Dia laboral,3932.59
+Industrial,569,49,13,18.44,Dia laboral,3514.09
+Comercial,2546,41,13,13.43,Dia laboral,4023.41
+Comercial,1902,79,28,13.9,Dia laboral,4354.25
+Industrial,3503,91,23,29.54,Fin de semana,5607.7
+Residencial,4346,17,49,29.5,Dia laboral,4891.8
+Industrial,2767,77,38,30.67,Dia laboral,5416.01
+Residencial,3928,50,35,11.13,Dia laboral,4808.64
+Comercial,3567,21,30,24.39,Fin de semana,4608.27
+Residencial,3369,93,6,32.04,Dia laboral,4253.4
+Comercial,3372,35,40,32.11,Dia laboral,4854.25
+Comercial,2550,99,6,23.09,Fin de semana,4367.45
+Residencial,1252,42,23,25.92,Fin de semana,2924.6
+Industrial,1312,50,29,18.54,Fin de semana,4193.77
+Comercial,1041,72,24,14.25,Fin de semana,3689.04
+Comercial,4391,14,39,14.13,Fin de semana,5212.64
+Comercial,1698,7,44,32.44,Fin de semana,3701.68
+Comercial,4240,41,21,15.87,Dia laboral,5082.68
+Industrial,508,24,34,28.34,Dia laboral,3601.86
+Industrial,2317,35,38,20.76,Fin de semana,4753.3
+Residencial,749,90,12,20.83,Dia laboral,2989.05
+Residencial,3482,45,20,20.29,Dia laboral,4172.54
+Comercial,1746,94,25,20.37,Fin de semana,4278.0
+Comercial,2284,48,7,33.17,Fin de semana,3683.59
+Comercial,1466,39,18,16.16,Dia laboral,3508.32
+Residencial,4296,58,3,12.25,Fin de semana,4390.91
+Residencial,2583,28,21,25.4,Dia laboral,3513.31
+Residencial,2134,75,45,17.0,Fin de semana,4213.66
+Industrial,725,57,39,21.27,Dia laboral,4184.21
+Comercial,894,25,11,27.42,Dia laboral,2864.42
+Residencial,4223,3,25,10.42,Fin de semana,4251.16
+Residencial,1960,70,3,24.76,Dia laboral,3241.57
+Comercial,3436,22,26,15.34,Dia laboral,4562.64
+Industrial,2129,55,15,29.27,Fin de semana,4349.61
+Residencial,3287,21,30,18.62,Dia laboral,4036.12
+Residencial,3009,91,31,21.16,Fin de semana,4543.67
+Residencial,4048,92,4,18.9,Fin de semana,4584.62
+Industrial,197,68,36,31.82,Dia laboral,3897.02
+Industrial,1316,52,5,18.39,Fin de semana,3736.5
+Residencial,2078,14,37,22.23,Dia laboral,3437.53
+Residencial,231,91,8,25.03,Dia laboral,2619.36
+Industrial,4417,72,8,25.75,Fin de semana,5628.95
+Comercial,2264,89,31,33.73,Fin de semana,4560.05
+Comercial,1052,47,43,21.1,Fin de semana,3791.04
+Industrial,191,69,41,12.68,Dia laboral,4099.62
+Comercial,4416,34,17,16.6,Dia laboral,5023.85
+Residencial,2747,82,28,13.04,Dia laboral,4343.66
+Comercial,3716,24,16,17.95,Dia laboral,4520.19
+Comercial,2049,98,40,25.77,Dia laboral,4804.46
+Industrial,2085,93,30,20.4,Dia laboral,5100.56
+Industrial,3264,87,42,30.03,Dia laboral,5866.63
+Residencial,3629,75,24,10.17,Dia laboral,4682.41
+Comercial,4310,19,43,15.6,Dia laboral,5341.65
+Comercial,3943,48,20,14.3,Fin de semana,4930.94
+Industrial,1769,46,29,28.51,Dia laboral,4399.73
+Comercial,3179,92,49,27.39,Fin de semana,5473.98
+Residencial,4531,1,16,10.14,Fin de semana,4218.29
+Residencial,95,90,49,11.14,Fin de semana,3375.62
+Comercial,2039,22,34,25.98,Fin de semana,3867.72
+Comercial,2364,60,9,28.7,Fin de semana,3909.07
+Comercial,4122,15,28,15.33,Fin de semana,4852.28
+Industrial,3796,47,1,17.61,Fin de semana,4945.09
+Residencial,2033,44,18,18.87,Dia laboral,3350.09
+Comercial,4612,49,12,30.18,Fin de semana,5061.5
+Comercial,2475,49,12,25.27,Dia laboral,3985.8
+Residencial,787,9,22,12.1,Dia laboral,2443.16
+Industrial,3027,75,10,13.13,Fin de semana,5013.75
+Industrial,2516,69,25,29.33,Dia laboral,4947.78
+Residencial,3162,35,43,16.24,Fin de semana,4330.61
+Industrial,1656,66,19,23.56,Dia laboral,4363.89
+Residencial,3257,39,45,26.93,Fin de semana,4408.36
+Residencial,356,45,12,34.26,Dia laboral,2260.82
+Residencial,2329,95,9,24.24,Fin de semana,3762.71
+Comercial,225,70,8,34.79,Fin de semana,2807.29
+Comercial,365,1,28,30.59,Fin de semana,2613.53
+Residencial,2887,52,32,13.34,Dia laboral,4197.59
+Residencial,2936,15,36,14.78,Dia laboral,3926.61
+Residencial,4193,36,46,31.53,Fin de semana,4879.42
+Industrial,1494,95,45,23.87,Fin de semana,5034.91
+Comercial,3997,23,12,14.2,Fin de semana,4550.69
+Residencial,4569,51,22,24.03,Dia laboral,4839.29
+Comercial,1286,45,26,20.98,Fin de semana,3557.61
+Industrial,1216,76,41,29.41,Dia laboral,4637.71
+Comercial,2045,43,4,28.28,Dia laboral,3519.59
+Residencial,1322,45,28,28.96,Dia laboral,3127.07
+Comercial,704,16,9,30.84,Fin de semana,2564.94
+Industrial,1161,59,3,12.89,Fin de semana,3710.69
+Residencial,2594,85,7,17.39,Fin de semana,3799.24
+Comercial,1221,58,19,26.56,Dia laboral,3534.74
+Comercial,209,11,4,22.11,Dia laboral,2241.96
+Industrial,298,11,8,23.83,Fin de semana,2811.68
+Comercial,2529,89,23,15.01,Dia laboral,4686.28
+Residencial,2820,25,30,27.82,Fin de semana,3728.69
+Comercial,2015,53,29,11.12,Dia laboral,4189.13
+Residencial,395,44,9,21.22,Dia laboral,2276.7
+Residencial,2327,21,29,24.97,Fin de semana,3417.99
+Comercial,58,9,18,19.56,Dia laboral,2433.47
+Residencial,2634,32,2,15.25,Fin de semana,3201.55
+Residencial,1373,38,9,22.75,Dia laboral,2735.63
+Comercial,4244,12,46,22.81,Dia laboral,5260.26
+Comercial,3925,19,33,11.34,Fin de semana,4905.91
+Industrial,3978,90,34,27.26,Fin de semana,6084.9
+Industrial,2979,8,38,18.84,Fin de semana,4849.54
+Comercial,4442,81,5,24.47,Dia laboral,5228.59
+Industrial,1324,74,8,27.33,Dia laboral,4026.33
+Industrial,3432,57,18,29.65,Dia laboral,5178.97
+Comercial,1461,36,17,20.37,Fin de semana,3384.58
+Residencial,1184,89,48,30.51,Dia laboral,3885.13
+Residencial,3679,91,40,27.6,Dia laboral,5102.49
+Comercial,3628,57,47,28.74,Fin de semana,5319.27
+Comercial,1958,20,42,25.28,Fin de semana,3967.63
+Comercial,1604,97,46,15.79,Dia laboral,4724.76
+Comercial,1048,25,8,26.63,Fin de semana,2841.31
+Residencial,3303,99,27,31.43,Fin de semana,4650.7
+Comercial,3335,49,19,31.45,Fin de semana,4507.73
+Industrial,265,12,19,27.05,Dia laboral,3057.53
+Residencial,4461,42,46,17.82,Fin de semana,5152.04
+Comercial,439,52,39,28.23,Fin de semana,3395.45
+Residencial,3167,29,21,29.94,Fin de semana,3765.06
+Residencial,996,28,22,28.11,Dia laboral,2665.72
+Comercial,2327,86,32,30.61,Dia laboral,4649.81
+Residencial,491,61,11,33.75,Dia laboral,2475.76
+Industrial,230,30,9,24.72,Dia laboral,3030.38
+Industrial,1820,23,35,19.8,Fin de semana,4310.82
+Comercial,271,50,5,10.33,Dia laboral,2744.38
+Residencial,2705,57,7,16.94,Dia laboral,3631.54
+Comercial,1865,33,42,34.22,Fin de semana,4002.72
+Industrial,263,46,46,13.74,Fin de semana,3953.1
+Residencial,973,81,48,13.6,Dia laboral,3776.21
+Comercial,2282,17,11,11.75,Dia laboral,3609.75
+Residencial,430,98,2,15.1,Dia laboral,2726.13
+Industrial,4394,98,11,12.3,Dia laboral,6053.68
+Comercial,3396,99,11,30.78,Fin de semana,4884.18
+Industrial,1797,38,13,28.33,Fin de semana,3965.87
+Residencial,161,61,26,30.51,Dia laboral,2614.4
+Residencial,3009,84,15,27.44,Dia laboral,4172.29
+Industrial,4227,24,32,24.99,Dia laboral,5580.25
+Residencial,4532,58,38,28.79,Dia laboral,5185.54
+Residencial,3514,12,10,32.88,Fin de semana,3547.29
+Residencial,2197,82,29,20.36,Dia laboral,4030.72
+Residencial,4278,88,33,11.53,Dia laboral,5335.23
+Comercial,855,33,28,10.16,Fin de semana,3299.75
+Industrial,2013,7,34,28.05,Dia laboral,4243.36
+Industrial,3710,74,5,31.83,Dia laboral,5228.01
+Comercial,135,74,38,15.66,Fin de semana,3494.52
+Comercial,1909,21,8,26.77,Dia laboral,3314.12
+Residencial,3991,78,33,19.33,Dia laboral,5041.34
+Residencial,3907,77,9,17.72,Fin de semana,4464.55
+Residencial,4597,99,41,17.6,Dia laboral,5746.4
+Comercial,3870,76,38,32.07,Dia laboral,5492.51
+Residencial,188,25,4,28.84,Fin de semana,1787.0
+Industrial,953,35,20,33.18,Dia laboral,3647.48
+Industrial,1042,25,49,15.38,Fin de semana,4214.3
+Comercial,3733,23,23,30.0,Fin de semana,4549.59
+Industrial,2396,84,45,14.96,Fin de semana,5454.74
+Residencial,2070,25,43,24.55,Fin de semana,3601.83
+Industrial,103,14,40,12.59,Fin de semana,3432.74
+Industrial,3967,4,44,16.78,Fin de semana,5471.43
+Comercial,2186,80,10,15.5,Dia laboral,4149.49
+Comercial,1573,36,13,15.51,Dia laboral,3439.34
+Residencial,1666,70,44,27.56,Dia laboral,3888.89
+Industrial,3504,16,20,23.97,Dia laboral,4876.08
+Industrial,421,20,46,12.33,Dia laboral,3835.0
+Comercial,3164,43,14,31.26,Dia laboral,4306.74
+Residencial,4418,34,29,24.16,Dia laboral,4726.97
+Residencial,3211,14,1,12.8,Fin de semana,3324.61
+Residencial,2745,42,38,25.04,Dia laboral,4082.39
+Comercial,917,5,19,20.65,Dia laboral,2870.44
+Industrial,1820,89,6,23.69,Fin de semana,4371.38
+Comercial,4149,36,2,13.93,Fin de semana,4563.58
+Residencial,1747,19,25,14.33,Dia laboral,3108.88
+Residencial,538,17,42,33.72,Fin de semana,2631.16
+Comercial,2697,5,34,19.77,Dia laboral,4132.91
+Comercial,2728,18,24,12.93,Fin de semana,4063.62
+Comercial,242,30,2,29.63,Dia laboral,2372.16
+Comercial,122,81,2,15.38,Fin de semana,2839.18
+Residencial,1917,29,7,21.54,Dia laboral,2904.51
+Comercial,3577,82,26,17.62,Fin de semana,5177.22
+Residencial,1720,78,4,33.5,Dia laboral,3168.71
+Industrial,3262,56,41,34.55,Dia laboral,5513.36
+Industrial,1909,68,4,24.59,Fin de semana,4164.5
+Comercial,1991,24,42,15.79,Fin de semana,4073.01
+Industrial,3537,87,22,34.18,Fin de semana,5542.74
+Comercial,2527,44,14,11.38,Fin de semana,4023.35
+Residencial,3109,82,13,32.62,Fin de semana,4090.65
+Residencial,961,94,8,17.91,Fin de semana,3027.78
+Comercial,1012,71,17,16.99,Fin de semana,3509.87
+Industrial,3057,47,29,33.37,Fin de semana,5028.58
+Residencial,3376,42,15,31.27,Fin de semana,3880.66
+Residencial,2799,29,33,23.73,Fin de semana,3837.78
+Industrial,1567,10,13,20.89,Fin de semana,3598.99
+Residencial,1914,98,36,29.52,Fin de semana,4082.56
+Industrial,3212,47,13,25.41,Fin de semana,4831.96
+Comercial,2836,70,20,11.89,Dia laboral,4616.89
+Comercial,2065,65,5,34.67,Fin de semana,3688.46
+Industrial,862,17,6,29.31,Dia laboral,3157.54
+Industrial,399,7,32,15.67,Dia laboral,3396.51
+Residencial,4584,22,18,11.87,Dia laboral,4537.9
+Industrial,2661,32,43,12.86,Dia laboral,5097.96
+Comercial,4287,5,20,29.6,Dia laboral,4659.4
+Comercial,2764,3,6,11.91,Fin de semana,3578.29
+Comercial,3043,26,9,10.52,Dia laboral,4075.67
+Industrial,2281,80,8,24.3,Fin de semana,4566.41
+Comercial,1193,60,39,25.63,Fin de semana,3893.95
+Industrial,3759,89,17,34.04,Dia laboral,5633.01
+Residencial,4071,3,36,22.96,Dia laboral,4376.22
+Industrial,95,28,48,24.41,Dia laboral,3719.19
+Comercial,3098,92,43,23.58,Fin de semana,5329.97
+Comercial,2262,6,29,21.36,Fin de semana,3751.05
+Industrial,4316,3,18,25.95,Fin de semana,5083.26
+Comercial,3670,86,46,12.07,Dia laboral,5744.86
+Residencial,2230,87,36,19.67,Dia laboral,4242.17
+Comercial,4578,60,42,18.31,Dia laboral,5862.82
+Residencial,3833,35,38,29.66,Fin de semana,4524.71
+Comercial,3807,66,47,12.96,Dia laboral,5634.35
+Residencial,3051,34,35,19.28,Fin de semana,4085.95
+Comercial,2603,38,15,18.72,Fin de semana,3987.84
+Residencial,4342,19,25,10.29,Fin de semana,4475.56
+Industrial,3690,44,38,14.79,Dia laboral,5662.27
+Industrial,3139,86,13,13.96,Dia laboral,5290.06
+Comercial,4202,72,47,20.95,Dia laboral,5867.13
+Comercial,518,21,9,29.51,Fin de semana,2521.63
+Comercial,4338,70,7,25.71,Dia laboral,5096.3
+Residencial,4441,99,38,31.79,Fin de semana,5481.27
+Residencial,2201,85,29,11.31,Fin de semana,4058.25
+Comercial,4293,49,41,29.52,Fin de semana,5473.33
+Industrial,3927,99,36,21.27,Fin de semana,6217.3
+Industrial,4460,1,8,32.46,Dia laboral,4958.57
+Industrial,1523,79,49,10.39,Fin de semana,5037.86
+Industrial,3701,47,7,25.25,Dia laboral,5025.81
+Residencial,1961,78,36,10.33,Fin de semana,4003.79
+Comercial,419,85,27,15.09,Fin de semana,3540.45
+Residencial,2400,75,27,24.06,Dia laboral,4011.58
+Residencial,3383,89,29,18.3,Dia laboral,4749.64
+Industrial,2529,86,44,30.86,Fin de semana,5446.83
+Industrial,2969,69,5,10.24,Dia laboral,4886.94
+Comercial,3888,28,34,23.64,Fin de semana,4934.8
+Comercial,4375,5,1,10.13,Fin de semana,4374.33
+Comercial,478,72,18,26.98,Fin de semana,3202.5
+Industrial,2184,55,45,14.99,Dia laboral,5101.01
+Residencial,150,72,23,20.14,Fin de semana,2660.28
+Residencial,239,32,49,12.3,Fin de semana,2867.44
+Industrial,3936,36,28,29.67,Fin de semana,5390.35
+Residencial,3970,60,22,15.42,Dia laboral,4649.88
+Industrial,4079,1,28,19.15,Dia laboral,5219.66
+Residencial,3789,35,4,13.99,Dia laboral,3949.4
+Residencial,3672,59,25,23.69,Dia laboral,4498.07
+Residencial,1012,18,26,34.47,Dia laboral,2622.38
+Comercial,3118,61,41,34.63,Fin de semana,4934.94
+Residencial,2445,89,43,13.9,Fin de semana,4496.55
+Comercial,3892,23,26,33.56,Fin de semana,4677.23
+Comercial,1227,79,30,26.73,Fin de semana,3916.99
+Residencial,2065,16,25,29.13,Fin de semana,3125.85
+Residencial,2703,31,41,32.35,Dia laboral,3973.35
+Residencial,2758,13,45,26.11,Fin de semana,3884.07
+Residencial,4550,61,1,24.54,Dia laboral,4506.27
+Comercial,3433,71,27,28.08,Fin de semana,4957.36
+Residencial,1275,13,4,20.76,Dia laboral,2342.38
+Comercial,3642,67,24,21.48,Fin de semana,5003.05
+Industrial,3221,55,29,18.34,Fin de semana,5272.15
+Residencial,2741,64,47,14.73,Fin de semana,4481.81
+Residencial,4388,66,8,10.16,Dia laboral,4680.87
+Residencial,3576,42,49,25.31,Fin de semana,4698.47
+Comercial,1835,61,47,33.38,Fin de semana,4370.89
+Residencial,2894,35,42,17.84,Dia laboral,4208.74
+Comercial,1642,48,36,19.41,Dia laboral,4036.68
+Comercial,1869,13,19,24.92,Dia laboral,3441.55
+Residencial,2356,77,26,24.09,Fin de semana,3937.59
+Residencial,4576,82,35,30.7,Fin de semana,5329.29
+Residencial,3283,85,27,32.39,Fin de semana,4494.99
+Comercial,1129,75,23,16.83,Fin de semana,3733.52
+Industrial,3688,85,36,17.99,Dia laboral,6014.94
+Industrial,1749,30,25,22.66,Dia laboral,4178.36
+Residencial,1958,5,25,26.29,Fin de semana,2972.61
+Industrial,1399,43,21,26.86,Dia laboral,4018.77
+Industrial,3867,13,6,29.32,Fin de semana,4684.93
+Industrial,1814,85,19,28.85,Dia laboral,4612.22
+Residencial,3115,21,15,28.71,Dia laboral,3593.42
+Residencial,2619,74,19,24.55,Fin de semana,3907.03
+Comercial,317,61,49,12.65,Fin de semana,3697.77
+Comercial,277,15,13,11.71,Fin de semana,2500.56
+Comercial,1754,54,6,19.05,Dia laboral,3558.78
+Comercial,3030,65,29,27.67,Dia laboral,4772.8
+Comercial,4386,48,20,22.94,Fin de semana,5126.0
+Comercial,2530,39,41,15.33,Fin de semana,4495.21
+Comercial,2535,32,42,11.26,Dia laboral,4518.12
+Residencial,2810,72,10,33.34,Dia laboral,3816.15
+Comercial,4612,89,37,26.33,Fin de semana,5980.98
+Industrial,2447,88,46,10.79,Fin de semana,5563.48
+Residencial,3495,17,14,21.58,Fin de semana,3723.56
+Comercial,3873,98,43,33.1,Dia laboral,5809.3
+Industrial,1309,16,45,19.1,Fin de semana,4169.39
+Comercial,3477,26,35,21.64,Dia laboral,4773.54
+Comercial,786,50,46,26.35,Dia laboral,3761.75
+Residencial,2324,19,35,28.29,Dia laboral,3549.48
+Industrial,1532,63,45,10.2,Dia laboral,4854.04
+Residencial,1292,62,21,18.76,Fin de semana,3141.67
+Residencial,74,17,40,20.5,Dia laboral,2457.6
+Industrial,1720,79,45,22.39,Dia laboral,5054.19
+Industrial,929,3,47,10.74,Fin de semana,3916.46
+Industrial,3036,99,38,34.99,Fin de semana,5709.26
+Industrial,4277,41,36,31.89,Dia laboral,5822.52
+Comercial,2049,92,8,33.62,Fin de semana,4015.07
+Comercial,1858,99,41,11.55,Fin de semana,4752.66
+Comercial,1898,78,30,29.41,Fin de semana,4254.59
+Industrial,3760,82,6,21.1,Fin de semana,5358.22
+Comercial,3975,40,48,23.38,Fin de semana,5382.43
+Residencial,3316,70,47,10.4,Dia laboral,4922.82
+Industrial,1935,1,13,26.45,Dia laboral,3729.59
+Residencial,4018,33,41,30.12,Dia laboral,4712.33
+Residencial,1311,3,17,21.0,Fin de semana,2470.59
+Industrial,2417,24,21,29.31,Fin de semana,4314.56
+Comercial,2426,34,27,29.2,Fin de semana,4039.93
+Residencial,3739,68,20,30.71,Dia laboral,4488.84
+Comercial,2266,60,5,15.03,Fin de semana,3844.62
+Industrial,1289,28,19,24.15,Fin de semana,3733.24
+Residencial,3638,12,44,10.73,Dia laboral,4454.51
+Comercial,415,15,34,21.32,Dia laboral,2996.99
+Industrial,1887,69,29,11.85,Dia laboral,4776.54
+Residencial,3536,14,23,26.61,Fin de semana,3870.32
+Comercial,663,60,27,34.94,Dia laboral,3372.2
+Comercial,2361,49,49,22.92,Dia laboral,4676.25
+Comercial,654,4,20,22.82,Dia laboral,2727.89
+Industrial,713,58,32,28.94,Dia laboral,4009.27
+Industrial,488,74,12,12.58,Fin de semana,3679.96
+Industrial,638,36,6,14.81,Fin de semana,3249.36
+Comercial,1759,44,33,23.53,Dia laboral,3979.37
+Industrial,2083,8,13,26.21,Dia laboral,3880.32
+Comercial,3413,71,40,30.41,Fin de semana,5195.15
+Comercial,3289,67,23,30.46,Dia laboral,4798.25
+Residencial,4059,7,12,18.49,Dia laboral,3952.58
+Residencial,4164,94,34,27.86,Dia laboral,5272.05
+Residencial,1709,38,24,19.24,Dia laboral,3234.06
+Comercial,1442,52,1,27.67,Fin de semana,3177.82
+Comercial,4273,39,41,33.57,Fin de semana,5342.17
+Industrial,327,59,13,21.37,Fin de semana,3419.14
+Residencial,2780,32,43,27.22,Dia laboral,4090.2
+Residencial,1426,36,13,19.89,Fin de semana,2788.49
+Comercial,3695,84,26,16.19,Fin de semana,5268.16
+Residencial,638,26,19,33.73,Dia laboral,2364.9
+Residencial,2715,39,17,34.43,Fin de semana,3519.56
+Industrial,2641,9,22,21.98,Dia laboral,4391.84
+Comercial,3564,1,27,20.26,Dia laboral,4417.34
+Industrial,1505,73,40,15.37,Fin de semana,4763.57
+Industrial,1280,99,29,12.46,Fin de semana,4696.73
+Industrial,1359,19,27,12.28,Fin de semana,3900.33
+Industrial,2458,57,21,31.59,Fin de semana,4655.22
+Industrial,3524,98,17,11.14,Dia laboral,5711.22
+Comercial,3302,52,4,26.35,Fin de semana,4245.53
+Industrial,1048,11,26,18.42,Fin de semana,3602.33
+Comercial,4532,53,11,31.31,Fin de semana,5032.83
+Residencial,552,16,23,34.38,Dia laboral,2295.33
+Residencial,3540,62,39,15.16,Fin de semana,4729.67
+Residencial,1600,6,9,30.23,Dia laboral,2500.08
+Comercial,4577,28,38,23.08,Dia laboral,5438.11
+Residencial,3996,32,34,11.75,Dia laboral,4642.27
+Residencial,4611,29,15,20.88,Dia laboral,4517.48
+Comercial,2520,7,34,14.73,Fin de semana,4032.83
+Comercial,1076,48,17,23.29,Dia laboral,3332.69
+Residencial,4335,15,28,11.5,Dia laboral,4535.64
+Industrial,165,84,14,31.84,Dia laboral,3599.73
+Industrial,1726,7,17,19.39,Dia laboral,3792.47
+Comercial,2107,62,21,16.37,Fin de semana,4092.14
+Comercial,3502,4,21,11.07,Dia laboral,4339.55
+Comercial,3497,60,18,21.25,Fin de semana,4736.14
+Industrial,2600,85,31,23.93,Fin de semana,5249.84
+Industrial,4623,51,22,34.91,Fin de semana,5763.85
+Residencial,2064,56,49,12.86,Fin de semana,4087.05
+Residencial,1476,83,20,29.5,Fin de semana,3377.38
+Residencial,780,25,36,19.48,Dia laboral,2842.91
+Industrial,2209,92,6,18.96,Dia laboral,4684.16
+Industrial,236,97,45,34.58,Dia laboral,4374.59
+Industrial,4433,92,7,32.82,Fin de semana,5781.83
+Comercial,3354,17,42,28.54,Dia laboral,4722.9
+Industrial,1900,50,6,33.53,Fin de semana,3975.14
+Industrial,4298,68,38,18.13,Dia laboral,6212.59
+Residencial,4322,14,20,27.93,Dia laboral,4276.66
+Residencial,210,36,49,16.09,Fin de semana,2872.63
+Industrial,992,71,47,19.75,Dia laboral,4635.28
+Residencial,4592,93,17,13.31,Dia laboral,5225.35
+Comercial,179,96,28,30.73,Fin de semana,3463.09
+Comercial,1118,61,47,26.75,Fin de semana,4018.05
+Residencial,1171,65,5,28.73,Dia laboral,2786.93
+Residencial,2628,52,19,31.72,Fin de semana,3655.82
+Comercial,1119,52,28,19.62,Dia laboral,3634.65
+Industrial,3600,7,41,10.05,Dia laboral,5327.65
+Industrial,3008,1,21,19.77,Dia laboral,4500.16
+Residencial,2451,13,9,12.69,Fin de semana,3066.15
+Industrial,4455,8,22,34.4,Fin de semana,5245.78
+Comercial,4234,26,1,29.63,Dia laboral,4460.84
+Residencial,583,75,36,33.11,Fin de semana,3118.23
+Comercial,3376,33,20,16.2,Dia laboral,4516.02
+Industrial,4577,19,39,11.26,Fin de semana,5877.19
+Comercial,2953,46,31,27.09,Fin de semana,4534.07
+Industrial,3141,56,8,21.32,Dia laboral,4854.4
+Residencial,285,33,17,17.03,Dia laboral,2288.52
+Residencial,3599,65,23,10.2,Dia laboral,4546.15
+Residencial,1346,2,9,32.68,Dia laboral,2311.29
+Comercial,1153,73,13,17.02,Fin de semana,3525.79
+Comercial,931,54,40,10.49,Dia laboral,3838.73
+Residencial,2236,2,49,24.59,Fin de semana,3580.56
+Residencial,4430,39,11,33.49,Dia laboral,4377.04
+Industrial,1580,91,8,26.94,Dia laboral,4336.02
+Industrial,2463,45,25,33.47,Dia laboral,4658.38
+Industrial,1333,69,40,19.94,Dia laboral,4658.27
+Residencial,865,40,44,21.16,Fin de semana,3140.2
+Comercial,2463,64,29,15.46,Fin de semana,4468.57
+Industrial,3179,98,6,29.74,Dia laboral,5212.46
+Comercial,3625,86,10,22.42,Dia laboral,4949.14
+Residencial,483,86,14,20.59,Fin de semana,2797.21
+Comercial,2785,93,9,19.04,Fin de semana,4514.09
+Comercial,2382,21,28,25.14,Dia laboral,3976.81
+Residencial,2473,37,11,23.25,Fin de semana,3304.91
+Industrial,4377,83,45,11.05,Fin de semana,6530.6
+Industrial,2008,26,48,32.4,Dia laboral,4688.81
+Residencial,3006,40,13,29.55,Fin de semana,3630.24
+Residencial,1107,76,9,23.05,Fin de semana,2921.01
+Residencial,3173,48,26,33.54,Dia laboral,4090.41
+Comercial,229,92,41,13.26,Fin de semana,3797.14
+Residencial,670,44,39,34.91,Fin de semana,2906.57
+Residencial,2853,3,15,10.22,Fin de semana,3314.91
+Residencial,2663,31,15,11.19,Fin de semana,3487.69
+Comercial,1561,49,26,16.35,Dia laboral,3818.71
+Comercial,3091,6,26,17.8,Dia laboral,4205.07
+Industrial,2363,21,16,23.73,Dia laboral,4233.24
+Residencial,4472,85,22,19.9,Dia laboral,5147.4
+Industrial,3385,92,43,16.56,Dia laboral,6069.51
+Residencial,4497,2,15,27.49,Fin de semana,4102.94
+Industrial,2691,23,49,21.63,Fin de semana,5050.37
+Residencial,4192,39,39,13.3,Dia laboral,4910.15
+Industrial,2908,60,27,17.31,Dia laboral,5168.99
+Residencial,4229,32,32,28.7,Fin de semana,4592.9
+Industrial,2831,92,3,13.61,Fin de semana,4935.7
+Comercial,3058,92,8,27.03,Dia laboral,4640.78
+Industrial,2991,21,17,15.18,Dia laboral,4634.34
+Comercial,3818,8,49,20.38,Dia laboral,5063.09
+Comercial,2369,95,9,17.83,Dia laboral,4366.0
+Residencial,3408,63,12,22.54,Fin de semana,4091.56
+Residencial,772,4,43,23.99,Dia laboral,2745.7
+Industrial,1177,2,47,11.93,Fin de semana,4034.11
+Comercial,1567,93,38,33.96,Dia laboral,4413.74
+Comercial,245,21,25,22.54,Dia laboral,2779.25
+Industrial,4440,9,15,34.61,Dia laboral,5156.72
+Comercial,942,31,15,33.79,Dia laboral,2998.57
+Industrial,328,80,7,29.86,Fin de semana,3467.74
+Comercial,2523,10,19,21.96,Dia laboral,3778.19
+Industrial,2476,70,48,17.14,Fin de semana,5407.04
+Comercial,3866,87,20,32.78,Dia laboral,5237.3
+Industrial,2193,86,33,18.76,Fin de semana,5107.0
+Industrial,4539,68,11,29.85,Fin de semana,5693.96
+Residencial,1103,54,48,14.77,Dia laboral,3570.31
+Comercial,2278,30,11,18.62,Fin de semana,3653.25
+Comercial,3512,25,22,19.14,Dia laboral,4534.85
+Residencial,1861,80,49,22.83,Dia laboral,4217.88
+Residencial,892,66,1,20.77,Fin de semana,2556.63
+Industrial,3934,20,37,33.31,Fin de semana,5390.76
+Comercial,1444,98,45,18.19,Dia laboral,4616.46
+Industrial,1103,17,2,31.5,Fin de semana,3146.62
+Residencial,3591,55,45,23.86,Dia laboral,4813.61
+Comercial,299,27,13,17.65,Fin de semana,2602.69
+Industrial,3462,88,31,21.87,Fin de semana,5753.93
+Industrial,3465,38,35,20.22,Dia laboral,5393.95
+Residencial,2219,18,37,31.43,Dia laboral,3507.49
+Industrial,4643,2,18,27.43,Fin de semana,5241.89
+Residencial,1307,72,27,15.1,Fin de semana,3388.25
+Industrial,4024,15,4,33.67,Fin de semana,4727.81
+Residencial,2519,51,16,22.81,Fin de semana,3571.76
+Industrial,4234,52,11,20.78,Fin de semana,5415.31
+Comercial,1518,14,38,18.39,Dia laboral,3675.54
+Residencial,3008,88,47,28.41,Dia laboral,4847.12
+Industrial,991,97,12,14.15,Fin de semana,4173.1
+Residencial,576,63,35,17.94,Dia laboral,3100.51
+Comercial,4335,39,1,30.88,Dia laboral,4638.97
+Comercial,2263,10,35,25.87,Dia laboral,3938.82
+Comercial,3270,67,9,21.08,Fin de semana,4504.67
+Industrial,2139,29,14,33.52,Dia laboral,4104.1
+Comercial,72,4,34,22.51,Dia laboral,2696.49
+Residencial,2882,97,23,20.52,Fin de semana,4378.55
+Industrial,3016,29,26,15.49,Dia laboral,4905.84
+Residencial,1747,12,27,29.52,Dia laboral,3002.83
+Residencial,1696,49,34,22.35,Fin de semana,3471.43
+Comercial,2356,34,26,14.98,Dia laboral,4103.09
+Comercial,1408,11,40,11.06,Fin de semana,3612.86
+Residencial,3110,90,26,23.91,Dia laboral,4524.49
+Comercial,4156,78,12,32.66,Dia laboral,5143.73
+Industrial,250,22,37,19.58,Fin de semana,3496.99
+Residencial,4187,37,17,20.4,Fin de semana,4361.43
+Comercial,3454,82,22,14.12,Fin de semana,5048.34
+Industrial,4335,55,1,22.99,Dia laboral,5338.19
+Residencial,3933,5,30,32.29,Dia laboral,4155.74
+Comercial,3129,90,14,13.13,Fin de semana,4798.68
+Comercial,2875,96,37,20.06,Fin de semana,5147.11
+Comercial,2539,37,49,33.14,Dia laboral,4601.21
+Industrial,4179,5,41,29.42,Fin de semana,5472.2
+Residencial,3239,63,24,33.71,Dia laboral,4235.19
+Industrial,348,11,4,21.49,Fin de semana,2769.99
+Industrial,103,11,29,19.96,Dia laboral,3196.17
+Residencial,1224,2,47,11.58,Fin de semana,3060.91
+Comercial,4219,22,2,16.32,Fin de semana,4449.57
+Residencial,697,70,41,19.04,Dia laboral,3350.06
+Residencial,4357,30,3,27.65,Dia laboral,4116.88
+Industrial,3045,10,11,19.06,Fin de semana,4363.9
+Residencial,457,30,36,18.33,Dia laboral,2724.62
+Industrial,4566,45,45,15.8,Fin de semana,6228.54
+Industrial,1005,21,28,17.38,Fin de semana,3724.42
+Comercial,3768,32,38,30.26,Fin de semana,4956.67
+Industrial,4140,58,21,26.4,Dia laboral,5646.19
+Residencial,3494,11,12,14.63,Fin de semana,3657.53
+Residencial,877,43,47,20.27,Dia laboral,3290.94
+Residencial,996,79,40,25.83,Fin de semana,3496.97
+Residencial,2791,42,5,31.62,Fin de semana,3364.13
+Industrial,3877,5,39,15.27,Fin de semana,5340.39
+Comercial,1890,3,1,28.49,Fin de semana,2924.87
+Residencial,594,10,32,22.76,Dia laboral,2495.93
+Comercial,2841,70,36,15.27,Fin de semana,4873.0
+Industrial,1906,88,42,31.58,Fin de semana,5088.21
+Industrial,3752,31,37,20.24,Dia laboral,5518.13
+Industrial,1463,9,13,29.07,Dia laboral,3542.19
+Comercial,1686,46,3,21.1,Dia laboral,3372.41
+Industrial,1876,60,45,22.82,Fin de semana,4895.61
+Residencial,771,98,46,18.82,Dia laboral,3771.12
+Residencial,345,16,10,26.17,Fin de semana,1915.37
+Comercial,964,63,31,13.89,Fin de semana,3699.65
+Residencial,2780,63,6,24.99,Fin de semana,3621.53
+Comercial,3938,58,35,13.49,Fin de semana,5332.5
+Residencial,3124,96,32,32.11,Fin de semana,4620.93
+Comercial,2501,31,11,25.59,Dia laboral,3798.62
+Residencial,400,43,17,31.12,Fin de semana,2330.09
+Residencial,2525,92,8,13.46,Dia laboral,3921.95
+Residencial,2229,7,37,13.91,Dia laboral,3490.41
+Residencial,1564,19,7,33.47,Dia laboral,2554.39
+Comercial,1633,72,4,14.08,Dia laboral,3658.93
+Residencial,1155,20,33,13.16,Dia laboral,2966.16
+Residencial,2613,49,9,20.74,Dia laboral,3522.9
+Comercial,4356,54,28,17.07,Fin de semana,5359.1
+Residencial,4589,60,13,18.44,Dia laboral,4787.86
+Residencial,2420,16,19,28.69,Dia laboral,3249.48
+Residencial,492,73,42,31.2,Dia laboral,3229.31
+Industrial,1454,17,3,20.72,Fin de semana,3408.98
+Residencial,3519,72,28,16.73,Dia laboral,4640.37
+Comercial,2373,96,25,30.45,Dia laboral,4635.4
+Comercial,4249,21,33,28.63,Dia laboral,5063.9
+Residencial,3316,19,17,29.9,Fin de semana,3665.55
+Residencial,2488,57,4,16.0,Dia laboral,3459.45
+Residencial,3228,42,46,33.41,Fin de semana,4410.42
+Industrial,796,9,45,26.94,Dia laboral,3833.81
+Industrial,2951,60,19,26.02,Dia laboral,4988.57
+Residencial,3033,74,48,29.06,Fin de semana,4687.39
+Industrial,4498,86,23,18.9,Fin de semana,6146.35
+Residencial,4176,10,35,29.67,Dia laboral,4449.66
+Residencial,1305,50,46,29.34,Dia laboral,3525.66
+Residencial,2481,60,42,20.2,Dia laboral,4224.59
+Comercial,1102,66,37,28.67,Dia laboral,3900.25
+Industrial,1079,93,4,25.21,Fin de semana,3965.05
+Residencial,889,90,49,17.05,Fin de semana,3773.61
+Industrial,77,34,45,23.29,Dia laboral,3715.45
+Comercial,930,85,8,24.61,Dia laboral,3437.74
+Residencial,1252,39,32,30.67,Dia laboral,3101.02
+Residencial,1430,24,2,24.28,Dia laboral,2478.55
+Comercial,1577,48,14,12.46,Fin de semana,3546.62
+Comercial,1091,1,18,24.76,Dia laboral,2883.5
+Residencial,3057,21,8,13.77,Dia laboral,3496.82
+Industrial,4606,63,37,32.14,Fin de semana,6188.4
+Industrial,4533,85,9,14.35,Dia laboral,5948.34
+Comercial,3916,47,21,27.7,Fin de semana,4859.08
+Comercial,2971,2,33,30.43,Fin de semana,4126.84
+Industrial,2072,74,29,11.39,Fin de semana,4878.26
+Residencial,4641,33,8,28.35,Fin de semana,4346.16
+Comercial,497,20,18,32.04,Fin de semana,2667.44
+Industrial,4172,55,48,25.1,Fin de semana,6130.17
+Comercial,2522,67,38,21.08,Fin de semana,4682.44
+Comercial,1473,95,32,16.24,Dia laboral,4351.81
+Industrial,912,32,5,17.67,Fin de semana,3322.79
+Residencial,4396,30,32,25.49,Fin de semana,4678.75
+Residencial,4532,84,6,20.48,Fin de semana,4796.83
+Comercial,1492,8,24,30.91,Fin de semana,3208.59
+Comercial,984,32,19,23.55,Dia laboral,3161.9
+Industrial,3484,47,45,25.14,Dia laboral,5669.86
+Comercial,3037,19,37,24.33,Fin de semana,4443.15
+Comercial,2374,87,34,15.2,Dia laboral,4802.21
+Residencial,3402,74,30,30.45,Fin de semana,4518.97
+Comercial,3556,36,8,12.75,Fin de semana,4370.44
+Comercial,2685,3,3,32.11,Dia laboral,3424.66
+Comercial,901,20,35,27.42,Dia laboral,3297.91
+Industrial,2498,36,45,25.43,Fin de semana,4977.79
+Industrial,132,44,24,16.79,Dia laboral,3457.17
+Comercial,3629,94,38,16.96,Fin de semana,5568.44
+Comercial,216,69,16,12.36,Dia laboral,3114.61
+Residencial,2553,47,48,28.79,Fin de semana,4160.27
+Residencial,1896,35,5,31.08,Fin de semana,2815.34
+Comercial,3123,98,5,12.47,Dia laboral,4748.66
+Industrial,1681,21,35,31.59,Dia laboral,4207.14
+Industrial,901,70,24,31.32,Fin de semana,4008.78
+Residencial,1535,8,18,32.12,Fin de semana,2605.98
+Industrial,3206,75,15,23.3,Dia laboral,5209.3
+Comercial,3366,45,23,29.86,Dia laboral,4622.54
+Residencial,2885,94,17,11.66,Fin de semana,4274.73
+Comercial,1950,83,29,31.85,Fin de semana,4300.28
+Comercial,1979,21,35,27.24,Dia laboral,3889.08
+Comercial,361,21,40,27.75,Dia laboral,3115.68
+Residencial,1096,15,34,10.25,Fin de semana,2868.84
+Residencial,697,30,18,10.51,Dia laboral,2532.88
+Comercial,3655,77,11,12.22,Dia laboral,4946.38
+Residencial,4100,62,38,30.82,Dia laboral,4983.0
+Comercial,2764,94,14,28.28,Dia laboral,4616.56
+Industrial,2037,95,10,33.51,Dia laboral,4628.8
+Residencial,4418,23,44,25.48,Fin de semana,4860.8
+Industrial,663,67,37,21.23,Dia laboral,4211.11
+Residencial,1593,9,1,34.06,Dia laboral,2347.37
+Comercial,1137,85,4,22.85,Fin de semana,3428.02
+Industrial,3938,44,22,30.32,Fin de semana,5348.31
+Comercial,830,38,24,23.33,Dia laboral,3240.14
+Comercial,2024,21,9,21.56,Fin de semana,3371.6
+Comercial,1903,18,9,15.93,Fin de semana,3305.06
+Industrial,1902,80,41,20.69,Fin de semana,5040.46
+Residencial,229,65,46,20.94,Dia laboral,3138.81
+Residencial,97,60,46,24.71,Fin de semana,2948.69
+Industrial,2696,82,30,21.74,Fin de semana,5262.76
+Comercial,473,39,6,16.24,Fin de semana,2683.73
+Comercial,3428,60,9,28.82,Dia laboral,4531.32
+Industrial,2813,46,12,20.46,Fin de semana,4611.73
+Residencial,4531,54,27,17.78,Dia laboral,4979.87
+Industrial,4490,69,44,15.67,Dia laboral,6458.51
+Industrial,3241,86,28,16.18,Dia laboral,5633.76
+Comercial,490,49,26,30.56,Fin de semana,3121.19
+Residencial,1470,52,11,29.55,Fin de semana,2883.63
+Residencial,2435,35,1,23.3,Fin de semana,3064.11
+Residencial,1339,68,44,23.95,Fin de semana,3661.21
+Industrial,1132,7,22,14.67,Fin de semana,3546.34
+Comercial,3675,88,20,32.18,Dia laboral,5147.21
+Residencial,775,67,37,16.48,Fin de semana,3244.98
+Comercial,1469,57,11,31.4,Fin de semana,3423.63
